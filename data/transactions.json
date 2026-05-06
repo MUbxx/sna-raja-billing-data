@@ -1,0 +1,157 @@
+{
+  "transactions": [
+    {
+      "id": 1005,
+      "time": "10:55:40 AM",
+      "date": "2026-05-06",
+      "dateDisp": "6 மே, 2026",
+      "timestamp": 1778045140158,
+      "custN": "Mubeen",
+      "custP": "9345805940",
+      "items": [
+        {
+          "id": 12,
+          "e": "🫘",
+          "ta": "பாசிப்பருப்பு",
+          "en": "Moong Dal",
+          "pr": 105,
+          "u": "kg",
+          "qty": 1,
+          "tot": 105
+        }
+      ],
+      "sub": 105,
+      "disc": 0,
+      "total": 105,
+      "payType": "credit",
+      "itemCount": 1
+    },
+    {
+      "id": 1004,
+      "time": "5:48:30 PM",
+      "date": "2026-05-04",
+      "dateDisp": "4 மே, 2026",
+      "timestamp": 1777897110663,
+      "custN": "syed",
+      "custP": "9442816720",
+      "items": [
+        {
+          "id": 45,
+          "e": "🥛",
+          "ta": "பால்",
+          "en": "Milk",
+          "pr": 58,
+          "u": "litre",
+          "qty": 1,
+          "tot": 58
+        }
+      ],
+      "sub": 58,
+      "disc": 0,
+      "total": 58,
+      "payType": "credit",
+      "itemCount": 1
+    },
+    {
+      "id": 1003,
+      "time": "5:45:46 PM",
+      "date": "2026-05-04",
+      "dateDisp": "4 மே, 2026",
+      "timestamp": 1777896946760,
+      "custN": "Mubeen",
+      "custP": "9345805940",
+      "items": [
+        {
+          "id": 9,
+          "e": "🫘",
+          "ta": "துவரம் பருப்பு",
+          "en": "Toor Dal",
+          "pr": 120,
+          "u": "kg",
+          "qty": 1,
+          "tot": 120
+        }
+      ],
+      "sub": 120,
+      "disc": 0,
+      "total": 120,
+      "payType": "credit",
+      "itemCount": 1
+    },
+    {
+      "id": 1002,
+      "time": "5:44:53 PM",
+      "date": "2026-05-04",
+      "dateDisp": "4 மே, 2026",
+      "timestamp": 1777896893342,
+      "custN": "Mubeen",
+      "custP": "9345805940",
+      "items": [
+        {
+          "id": 16,
+          "e": "🍅",
+          "ta": "தக்காளி",
+          "en": "Tomato",
+          "pr": 25,
+          "u": "kg",
+          "qty": 1,
+          "tot": 25
+        }
+      ],
+      "sub": 25,
+      "disc": 0,
+      "total": 25,
+      "payType": "credit",
+      "itemCount": 1
+    },
+    {
+      "id": 1001,
+      "time": "5:24:47 PM",
+      "date": "2026-03-22",
+      "dateDisp": "22 மார்ச், 2026",
+      "timestamp": 1774180487948,
+      "custN": "—",
+      "custP": "",
+      "items": [
+        {
+          "id": 4,
+          "e": "🌾",
+          "ta": "கோதுமை மாவு",
+          "en": "Wheat Flour",
+          "pr": 42,
+          "u": "kg",
+          "qty": 1,
+          "tot": 42
+        },
+        {
+          "id": 23,
+          "e": "🥒",
+          "ta": "வெள்ளரிக்காய்",
+          "en": "Cucumber",
+          "pr": 30,
+          "u": "kg",
+          "qty": 1,
+          "tot": 30
+        },
+        {
+          "id": 38,
+          "e": "🫙",
+          "ta": "இஞ்சி",
+          "en": "Ginger",
+          "pr": 120,
+          "u": "kg",
+          "qty": 1,
+          "tot": 120
+        }
+      ],
+      "sub": 192,
+      "disc": 0,
+      "total": 192,
+      "payType": "cash",
+      "itemCount": 3
+    }
+  ],
+  "meta": {
+    "savedAt": "2026-05-06T05:45:19.216Z"
+  }
+}
