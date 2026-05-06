@@ -1,6 +1,6 @@
 {
   "meta": {
-    "backupAt": "2026-05-06T16:41:10.792Z",
+    "backupAt": "2026-05-06T16:41:23.413Z",
     "shopName": "S.N.A RAJA RICE & GROCERY",
     "billCounter": 1009,
     "version": "sna4"
@@ -218,7 +218,7 @@
       "pr": 25,
       "u": "kg",
       "cat": "காய்கறி",
-      "st": 0,
+      "st": 500,
       "wa": 10,
       "pin": true,
       "ord": 16
@@ -567,7 +567,7 @@
       "pr": 58,
       "u": "litre",
       "cat": "பால் பொருட்கள்",
-      "st": 0,
+      "st": 1000,
       "wa": 10,
       "pin": true,
       "ord": 45
