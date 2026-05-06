@@ -1,6 +1,52 @@
 {
   "transactions": [
     {
+      "id": 1006,
+      "time": "11:16:16 AM",
+      "date": "2026-05-06",
+      "dateDisp": "6 மே, 2026",
+      "timestamp": 1778046376703,
+      "custN": "—",
+      "custP": "",
+      "items": [
+        {
+          "id": 1,
+          "e": "🌾",
+          "ta": "அரிசி (Sona Masoori)",
+          "en": "Sona Masoori Rice",
+          "pr": 58,
+          "u": "kg",
+          "qty": 10,
+          "tot": 580
+        },
+        {
+          "id": 50,
+          "e": "🧂",
+          "ta": "உப்பு",
+          "en": "Salt",
+          "pr": 25,
+          "u": "kg",
+          "qty": 0.5,
+          "tot": 12.5
+        },
+        {
+          "id": 41,
+          "e": "🫚",
+          "ta": "நல்லெண்ணெய்",
+          "en": "Sesame Oil",
+          "pr": 180,
+          "u": "litre",
+          "qty": 1,
+          "tot": 180
+        }
+      ],
+      "sub": 772.5,
+      "disc": 0,
+      "total": 772.5,
+      "payType": "cash",
+      "itemCount": 3
+    },
+    {
       "id": 1005,
       "time": "10:55:40 AM",
       "date": "2026-05-06",
@@ -152,6 +198,6 @@
     }
   ],
   "meta": {
-    "savedAt": "2026-05-06T05:45:19.216Z"
+    "savedAt": "2026-05-06T05:46:17.216Z"
   }
 }
