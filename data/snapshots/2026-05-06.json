@@ -1,8 +1,8 @@
 {
   "meta": {
-    "backupAt": "2026-05-06T09:32:45.896Z",
+    "backupAt": "2026-05-06T16:40:07.353Z",
     "shopName": "S.N.A RAJA RICE & GROCERY",
-    "billCounter": 1008,
+    "billCounter": 1009,
     "version": "sna4"
   },
   "cfg": {
@@ -34,7 +34,7 @@
       "pr": 58,
       "u": "kg",
       "cat": "தானியங்கள்",
-      "st": 90,
+      "st": 0,
       "wa": 5,
       "pin": true,
       "ord": 1
@@ -218,7 +218,7 @@
       "pr": 25,
       "u": "kg",
       "cat": "காய்கறி",
-      "st": 34,
+      "st": 0,
       "wa": 10,
       "pin": true,
       "ord": 16
@@ -567,7 +567,7 @@
       "pr": 58,
       "u": "litre",
       "cat": "பால் பொருட்கள்",
-      "st": 44,
+      "st": 0,
       "wa": 10,
       "pin": true,
       "ord": 45
@@ -943,6 +943,52 @@
     }
   ],
   "transactions": [
+    {
+      "id": 1008,
+      "time": "10:10:06 PM",
+      "date": "2026-05-06",
+      "dateDisp": "6 மே, 2026",
+      "timestamp": 1778085606849,
+      "custN": "—",
+      "custP": "",
+      "items": [
+        {
+          "id": 16,
+          "e": "🍅",
+          "ta": "தக்காளி",
+          "en": "Tomato",
+          "pr": 25,
+          "u": "kg",
+          "qty": 34,
+          "tot": 850
+        },
+        {
+          "id": 1,
+          "e": "🌾",
+          "ta": "அரிசி (Sona Masoori)",
+          "en": "Sona Masoori Rice",
+          "pr": 58,
+          "u": "kg",
+          "qty": 90,
+          "tot": 5220
+        },
+        {
+          "id": 45,
+          "e": "🥛",
+          "ta": "பால்",
+          "en": "Milk",
+          "pr": 58,
+          "u": "litre",
+          "qty": 44,
+          "tot": 2552
+        }
+      ],
+      "sub": 8622,
+      "disc": 0,
+      "total": 8622,
+      "payType": "cash",
+      "itemCount": 3
+    },
     {
       "id": 1007,
       "time": "11:17:32 AM",
