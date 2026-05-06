@@ -1,0 +1,135 @@
+{
+  "accounts": [
+    {
+      "id": 1,
+      "name": "Mubeen",
+      "mobile": "9345805940",
+      "address": "North street , mk patty",
+      "txns": [
+        {
+          "type": "bill",
+          "amount": 25,
+          "billNo": 1002,
+          "items": 1,
+          "itemList": [
+            {
+              "id": 16,
+              "e": "🍅",
+              "ta": "தக்காளி",
+              "en": "Tomato",
+              "pr": 25,
+              "u": "kg",
+              "qty": 1,
+              "tot": 25
+            }
+          ],
+          "sub": 25,
+          "disc": 0,
+          "date": "2026-05-04",
+          "time": "5:44:53 PM",
+          "ts": 1777896893342
+        },
+        {
+          "type": "bill",
+          "amount": 120,
+          "billNo": 1003,
+          "items": 1,
+          "itemList": [
+            {
+              "id": 9,
+              "e": "🫘",
+              "ta": "துவரம் பருப்பு",
+              "en": "Toor Dal",
+              "pr": 120,
+              "u": "kg",
+              "qty": 1,
+              "tot": 120
+            }
+          ],
+          "sub": 120,
+          "disc": 0,
+          "date": "2026-05-04",
+          "time": "5:45:46 PM",
+          "ts": 1777896946760
+        },
+        {
+          "type": "payment",
+          "amount": 100,
+          "payMethod": "cash",
+          "date": "2026-05-04",
+          "time": "5:49:09 PM",
+          "ts": 1777897149929
+        },
+        {
+          "type": "bill",
+          "amount": 105,
+          "billNo": 1005,
+          "items": 1,
+          "itemList": [
+            {
+              "id": 12,
+              "e": "🫘",
+              "ta": "பாசிப்பருப்பு",
+              "en": "Moong Dal",
+              "pr": 105,
+              "u": "kg",
+              "qty": 1,
+              "tot": 105
+            }
+          ],
+          "sub": 105,
+          "disc": 0,
+          "date": "2026-05-06",
+          "time": "10:55:40 AM",
+          "ts": 1778045140158
+        }
+      ],
+      "createdAt": "2026-05-04T12:14:53.342Z",
+      "lastDate": "2026-05-06"
+    },
+    {
+      "id": 2,
+      "name": "syed",
+      "mobile": "9442816720",
+      "address": "-",
+      "txns": [
+        {
+          "type": "bill",
+          "amount": 58,
+          "billNo": 1004,
+          "items": 1,
+          "itemList": [
+            {
+              "id": 45,
+              "e": "🥛",
+              "ta": "பால்",
+              "en": "Milk",
+              "pr": 58,
+              "u": "litre",
+              "qty": 1,
+              "tot": 58
+            }
+          ],
+          "sub": 58,
+          "disc": 0,
+          "date": "2026-05-04",
+          "time": "5:48:30 PM",
+          "ts": 1777897110663
+        },
+        {
+          "type": "payment",
+          "amount": 58,
+          "payMethod": "gpay",
+          "date": "2026-05-04",
+          "time": "5:51:16 PM",
+          "ts": 1777897276207
+        }
+      ],
+      "createdAt": "2026-05-04T12:18:30.663Z",
+      "lastDate": "2026-05-04"
+    }
+  ],
+  "meta": {
+    "savedAt": "2026-05-06T05:45:19.216Z"
+  }
+}
