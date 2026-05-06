@@ -1,8 +1,8 @@
 {
   "meta": {
-    "backupAt": "2026-05-06T05:46:17.216Z",
+    "backupAt": "2026-05-06T05:47:32.636Z",
     "shopName": "S.N.A RAJA RICE & GROCERY",
-    "billCounter": 1007,
+    "billCounter": 1008,
     "version": "sna4"
   },
   "cfg": {
@@ -218,7 +218,7 @@
       "pr": 25,
       "u": "kg",
       "cat": "காய்கறி",
-      "st": 39,
+      "st": 34,
       "wa": 10,
       "pin": true,
       "ord": 16
@@ -567,7 +567,7 @@
       "pr": 58,
       "u": "litre",
       "cat": "பால் பொருட்கள்",
-      "st": 49,
+      "st": 44,
       "wa": 10,
       "pin": true,
       "ord": 45
@@ -862,6 +862,39 @@
           "date": "2026-05-06",
           "time": "10:55:40 AM",
           "ts": 1778045140158
+        },
+        {
+          "type": "bill",
+          "amount": 415,
+          "billNo": 1007,
+          "items": 2,
+          "itemList": [
+            {
+              "id": 16,
+              "e": "🍅",
+              "ta": "தக்காளி",
+              "en": "Tomato",
+              "pr": 25,
+              "u": "kg",
+              "qty": 5,
+              "tot": 125
+            },
+            {
+              "id": 45,
+              "e": "🥛",
+              "ta": "பால்",
+              "en": "Milk",
+              "pr": 58,
+              "u": "litre",
+              "qty": 5,
+              "tot": 290
+            }
+          ],
+          "sub": 415,
+          "disc": 0,
+          "date": "2026-05-06",
+          "time": "11:17:32 AM",
+          "ts": 1778046452124
         }
       ],
       "createdAt": "2026-05-04T12:14:53.342Z",
@@ -910,6 +943,42 @@
     }
   ],
   "transactions": [
+    {
+      "id": 1007,
+      "time": "11:17:32 AM",
+      "date": "2026-05-06",
+      "dateDisp": "6 மே, 2026",
+      "timestamp": 1778046452124,
+      "custN": "Mubeen",
+      "custP": "9345805940",
+      "items": [
+        {
+          "id": 16,
+          "e": "🍅",
+          "ta": "தக்காளி",
+          "en": "Tomato",
+          "pr": 25,
+          "u": "kg",
+          "qty": 5,
+          "tot": 125
+        },
+        {
+          "id": 45,
+          "e": "🥛",
+          "ta": "பால்",
+          "en": "Milk",
+          "pr": 58,
+          "u": "litre",
+          "qty": 5,
+          "tot": 290
+        }
+      ],
+      "sub": 415,
+      "disc": 0,
+      "total": 415,
+      "payType": "credit",
+      "itemCount": 2
+    },
     {
       "id": 1006,
       "time": "11:16:16 AM",
