@@ -1,6 +1,42 @@
 {
   "transactions": [
     {
+      "id": 1007,
+      "time": "11:17:32 AM",
+      "date": "2026-05-06",
+      "dateDisp": "6 மே, 2026",
+      "timestamp": 1778046452124,
+      "custN": "Mubeen",
+      "custP": "9345805940",
+      "items": [
+        {
+          "id": 16,
+          "e": "🍅",
+          "ta": "தக்காளி",
+          "en": "Tomato",
+          "pr": 25,
+          "u": "kg",
+          "qty": 5,
+          "tot": 125
+        },
+        {
+          "id": 45,
+          "e": "🥛",
+          "ta": "பால்",
+          "en": "Milk",
+          "pr": 58,
+          "u": "litre",
+          "qty": 5,
+          "tot": 290
+        }
+      ],
+      "sub": 415,
+      "disc": 0,
+      "total": 415,
+      "payType": "credit",
+      "itemCount": 2
+    },
+    {
       "id": 1006,
       "time": "11:16:16 AM",
       "date": "2026-05-06",
@@ -198,6 +234,6 @@
     }
   ],
   "meta": {
-    "savedAt": "2026-05-06T05:46:17.217Z"
+    "savedAt": "2026-05-06T05:47:32.636Z"
   }
 }
