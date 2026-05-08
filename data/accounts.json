@@ -178,9 +178,52 @@
       ],
       "createdAt": "2026-05-04T12:18:30.663Z",
       "lastDate": "2026-05-04"
+    },
+    {
+      "id": 3,
+      "name": "Kaatukara sultha",
+      "mobile": "",
+      "address": "",
+      "txns": [
+        {
+          "type": "bill",
+          "amount": 357.6,
+          "billNo": 1012,
+          "items": 2,
+          "itemList": [
+            {
+              "id": 1,
+              "e": "🌾",
+              "ta": "அரிசி (Sona Masoori)",
+              "en": "Sona Masoori Rice",
+              "pr": 58,
+              "u": "kg",
+              "qty": 5,
+              "tot": 290
+            },
+            {
+              "id": 2,
+              "e": "🌾",
+              "ta": "இட்லி அரிசி",
+              "en": "Idli Rice",
+              "pr": 52,
+              "u": "kg",
+              "qty": 1.3,
+              "tot": 67.60000000000001
+            }
+          ],
+          "sub": 357.6,
+          "disc": 0,
+          "date": "2026-05-08",
+          "time": "10:02:15 PM",
+          "ts": 1778257935586
+        }
+      ],
+      "createdAt": "2026-05-08T16:32:15.586Z",
+      "lastDate": "2026-05-08"
     }
   ],
   "meta": {
-    "savedAt": "2026-05-08T07:03:06.042Z"
+    "savedAt": "2026-05-08T16:32:16.100Z"
   }
 }
