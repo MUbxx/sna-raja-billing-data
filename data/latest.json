@@ -1,8 +1,8 @@
 {
   "meta": {
-    "backupAt": "2026-05-08T16:32:16.100Z",
+    "backupAt": "2026-05-08T23:47:11.134Z",
     "shopName": "S.N.A RAJA RICE & GROCERY",
-    "billCounter": 1013,
+    "billCounter": 1014,
     "version": "sna4"
   },
   "cfg": {
@@ -62,7 +62,7 @@
       "pr": 38,
       "u": "kg",
       "cat": "தானியங்கள்",
-      "st": 58.7,
+      "st": 58.2,
       "wa": 5,
       "ord": 3
     },
@@ -220,7 +220,7 @@
       "pr": 25,
       "u": "kg",
       "cat": "காய்கறி",
-      "st": 500,
+      "st": 499,
       "wa": 10,
       "pin": true,
       "ord": 16
@@ -643,7 +643,7 @@
       "pr": 42,
       "u": "kg",
       "cat": "சர்க்கரை & உப்பு",
-      "st": 77,
+      "st": 75,
       "wa": 10,
       "pin": true,
       "ord": 51
@@ -1006,6 +1006,52 @@
     }
   ],
   "transactions": [
+    {
+      "id": 1013,
+      "time": "5:17:10 AM",
+      "date": "2026-05-09",
+      "dateDisp": "9 மே, 2026",
+      "timestamp": 1778284030632,
+      "custN": "—",
+      "custP": "",
+      "items": [
+        {
+          "id": 16,
+          "e": "🍅",
+          "ta": "தக்காளி",
+          "en": "Tomato",
+          "pr": 25,
+          "u": "kg",
+          "qty": 1,
+          "tot": 25
+        },
+        {
+          "id": 51,
+          "e": "🍯",
+          "ta": "சர்க்கரை",
+          "en": "Sugar",
+          "pr": 42,
+          "u": "kg",
+          "qty": 2,
+          "tot": 84
+        },
+        {
+          "id": 3,
+          "e": "🌾",
+          "ta": "கோதுமை",
+          "en": "Wheat",
+          "pr": 38,
+          "u": "kg",
+          "qty": 0.5,
+          "tot": 19
+        }
+      ],
+      "sub": 128,
+      "disc": 0,
+      "total": 128,
+      "payType": "cash",
+      "itemCount": 3
+    },
     {
       "id": 1012,
       "time": "10:02:15 PM",
