@@ -1,8 +1,8 @@
 {
   "meta": {
-    "backupAt": "2026-05-08T07:03:06.020Z",
+    "backupAt": "2026-05-08T16:19:15.801Z",
     "shopName": "S.N.A RAJA RICE & GROCERY",
-    "billCounter": 1011,
+    "billCounter": 1012,
     "version": "sna4"
   },
   "cfg": {
@@ -36,7 +36,7 @@
       "pr": 58,
       "u": "kg",
       "cat": "தானியங்கள்",
-      "st": 500,
+      "st": 499,
       "wa": 5,
       "pin": true,
       "ord": 1
@@ -62,7 +62,7 @@
       "pr": 38,
       "u": "kg",
       "cat": "தானியங்கள்",
-      "st": 60,
+      "st": 58.7,
       "wa": 5,
       "ord": 3
     },
@@ -963,6 +963,42 @@
     }
   ],
   "transactions": [
+    {
+      "id": 1011,
+      "time": "9:49:15 PM",
+      "date": "2026-05-08",
+      "dateDisp": "8 மே, 2026",
+      "timestamp": 1778257155299,
+      "custN": "—",
+      "custP": "",
+      "items": [
+        {
+          "id": 1,
+          "e": "🌾",
+          "ta": "அரிசி (Sona Masoori)",
+          "en": "Sona Masoori Rice",
+          "pr": 58,
+          "u": "kg",
+          "qty": 1,
+          "tot": 58
+        },
+        {
+          "id": 3,
+          "e": "🌾",
+          "ta": "கோதுமை",
+          "en": "Wheat",
+          "pr": 38,
+          "u": "kg",
+          "qty": 1.3,
+          "tot": 49.4
+        }
+      ],
+      "sub": 107.4,
+      "disc": 0,
+      "total": 107.4,
+      "payType": "cash",
+      "itemCount": 2
+    },
     {
       "id": 1010,
       "time": "12:33:05 PM",
