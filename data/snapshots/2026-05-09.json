@@ -1,6 +1,6 @@
 {
   "meta": {
-    "backupAt": "2026-05-08T23:47:11.134Z",
+    "backupAt": "2026-05-09T07:33:43.572Z",
     "shopName": "S.N.A RAJA RICE & GROCERY",
     "billCounter": 1014,
     "version": "sna4"
@@ -26,7 +26,12 @@
     "நறுமணப் பொருட்கள்",
     "பிற"
   ],
-  "notes": [],
+  "notes": [
+    {
+      "txt": "Hi rahmathulla balance Rs. 11 kudukanu",
+      "time": "9/5/2026, 1:03:43 PM"
+    }
+  ],
   "products": [
     {
       "id": 1,
