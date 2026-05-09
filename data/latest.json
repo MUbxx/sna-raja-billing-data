@@ -1,6 +1,6 @@
 {
   "meta": {
-    "backupAt": "2026-05-09T13:49:54.156Z",
+    "backupAt": "2026-05-09T13:49:58.945Z",
     "shopName": "S.N.A RAJA RICE & GROCERY",
     "billCounter": 1014,
     "version": "sna4"
@@ -688,18 +688,6 @@
       "st": 6,
       "wa": 2,
       "ord": 54
-    },
-    {
-      "id": 55,
-      "e": "☕",
-      "ta": "காபி பொடி",
-      "en": "Coffee Powder",
-      "pr": 360,
-      "u": "kg",
-      "cat": "பிற",
-      "st": 10,
-      "wa": 2,
-      "ord": 55
     },
     {
       "id": 56,
