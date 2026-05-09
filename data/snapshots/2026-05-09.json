@@ -1,6 +1,6 @@
 {
   "meta": {
-    "backupAt": "2026-05-09T13:49:38.781Z",
+    "backupAt": "2026-05-09T13:49:54.156Z",
     "shopName": "S.N.A RAJA RICE & GROCERY",
     "billCounter": 1014,
     "version": "sna4"
@@ -736,18 +736,6 @@
       "st": 15,
       "wa": 3,
       "ord": 58
-    },
-    {
-      "id": 59,
-      "e": "🥜",
-      "ta": "பாதாம்",
-      "en": "Almonds",
-      "pr": 800,
-      "u": "kg",
-      "cat": "பிற",
-      "st": 5,
-      "wa": 1,
-      "ord": 59
     },
     {
       "id": 60,
