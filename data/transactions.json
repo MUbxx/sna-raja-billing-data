@@ -1,6 +1,52 @@
 {
   "transactions": [
     {
+      "id": 1014,
+      "time": "6:36:55 PM",
+      "date": "2026-05-09",
+      "dateDisp": "9 மே, 2026",
+      "timestamp": 1778332015092,
+      "custN": "—",
+      "custP": "",
+      "items": [
+        {
+          "id": 2,
+          "e": "🌾",
+          "ta": "இட்லி அரிசி",
+          "en": "Idli Rice",
+          "pr": 52,
+          "u": "kg",
+          "qty": 1,
+          "tot": 52
+        },
+        {
+          "id": 1,
+          "e": "🌾",
+          "ta": "அரிசி (Sona Masoori)",
+          "en": "Sona Masoori Rice",
+          "pr": 58,
+          "u": "kg",
+          "qty": 1,
+          "tot": 58
+        },
+        {
+          "id": 9,
+          "e": "🫘",
+          "ta": "துவரம் பருப்பு",
+          "en": "Toor Dal",
+          "pr": 120,
+          "u": "kg",
+          "qty": 1,
+          "tot": 120
+        }
+      ],
+      "sub": 230,
+      "disc": 0,
+      "total": 230,
+      "payType": "cash",
+      "itemCount": 3
+    },
+    {
       "id": 1013,
       "time": "5:17:10 AM",
       "date": "2026-05-09",
@@ -510,6 +556,6 @@
     }
   ],
   "meta": {
-    "savedAt": "2026-05-09T13:49:58.945Z"
+    "savedAt": "2026-05-09T13:53:03.744Z"
   }
 }
