@@ -1,6 +1,6 @@
 {
   "meta": {
-    "backupAt": "2026-05-26T09:28:43.845Z",
+    "backupAt": "2026-05-26T09:31:07.797Z",
     "shopName": "S.N.A RAJA RICE & GROCERY",
     "billCounter": 1015,
     "version": "sna4"
@@ -44,6 +44,19 @@
       "st": 1,
       "wa": 1,
       "ord": 1,
+      "pin": false
+    },
+    {
+      "id": 2,
+      "e": "🍚",
+      "ta": "இட்லி அரிசி சிப்பம்",
+      "en": "CR",
+      "pr": 1,
+      "u": "kg",
+      "cat": "தானியங்கள்",
+      "st": 100,
+      "wa": 1,
+      "ord": 2,
       "pin": false
     }
   ],
