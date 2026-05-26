@@ -1,6 +1,6 @@
 {
   "meta": {
-    "backupAt": "2026-05-26T03:47:35.703Z",
+    "backupAt": "2026-05-26T03:47:37.344Z",
     "shopName": "S.N.A RAJA RICE & GROCERY",
     "billCounter": 1015,
     "version": "sna4"
@@ -57,30 +57,6 @@
       "st": 58.2,
       "wa": 5,
       "ord": 3
-    },
-    {
-      "id": 4,
-      "e": "🌾",
-      "ta": "கோதுமை மாவு",
-      "en": "Wheat Flour",
-      "pr": 42,
-      "u": "kg",
-      "cat": "தானியங்கள்",
-      "st": 49,
-      "wa": 5,
-      "ord": 4
-    },
-    {
-      "id": 5,
-      "e": "🌾",
-      "ta": "ரவை",
-      "en": "Semolina",
-      "pr": 48,
-      "u": "kg",
-      "cat": "தானியங்கள்",
-      "st": 40,
-      "wa": 3,
-      "ord": 5
     },
     {
       "id": 9,
