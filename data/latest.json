@@ -1,6 +1,6 @@
 {
   "meta": {
-    "backupAt": "2026-05-26T03:45:49.077Z",
+    "backupAt": "2026-05-26T03:46:41.994Z",
     "shopName": "S.N.A RAJA RICE & GROCERY",
     "billCounter": 1015,
     "version": "sna4"
@@ -591,18 +591,6 @@
       "wa": 10,
       "pin": true,
       "ord": 51
-    },
-    {
-      "id": 61,
-      "e": "🫘",
-      "ta": "சோயா",
-      "en": "Soya Chunks",
-      "pr": 120,
-      "u": "kg",
-      "cat": "பருப்பு",
-      "st": 20,
-      "wa": 3,
-      "ord": 61
     }
   ],
   "accounts": [
