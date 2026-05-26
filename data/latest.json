@@ -1,6 +1,6 @@
 {
   "meta": {
-    "backupAt": "2026-05-26T03:47:12.040Z",
+    "backupAt": "2026-05-26T03:47:27.643Z",
     "shopName": "S.N.A RAJA RICE & GROCERY",
     "billCounter": 1015,
     "version": "sna4"
@@ -228,30 +228,6 @@
       "st": 50,
       "wa": 10,
       "ord": 17
-    },
-    {
-      "id": 18,
-      "e": "🥕",
-      "ta": "கேரட்",
-      "en": "Carrot",
-      "pr": 40,
-      "u": "kg",
-      "cat": "காய்கறி",
-      "st": 20,
-      "wa": 5,
-      "ord": 18
-    },
-    {
-      "id": 19,
-      "e": "🥥",
-      "ta": "தேங்காய்",
-      "en": "Coconut",
-      "pr": 25,
-      "u": "piece",
-      "cat": "காய்கறி",
-      "st": 100,
-      "wa": 10,
-      "ord": 19
     },
     {
       "id": 45,
