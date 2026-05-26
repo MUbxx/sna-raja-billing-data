@@ -1,6 +1,6 @@
 {
   "meta": {
-    "backupAt": "2026-05-26T03:49:41.534Z",
+    "backupAt": "2026-05-26T09:27:53.742Z",
     "shopName": "S.N.A RAJA RICE & GROCERY",
     "billCounter": 1015,
     "version": "sna4"
@@ -32,34 +32,7 @@
       "time": "9/5/2026, 1:03:43 PM"
     }
   ],
-  "products": [
-    {
-      "id": 2,
-      "e": "🌾",
-      "ta": "இட்லி அரிசி",
-      "en": "Idli Rice",
-      "pr": 45,
-      "u": "kg",
-      "cat": "தானியங்கள்",
-      "st": 491.7,
-      "wa": 5,
-      "pin": true,
-      "ord": 2
-    },
-    {
-      "id": 3,
-      "e": "🌾",
-      "ta": "து. பருப்பு",
-      "en": "thuvaram paruppu",
-      "pr": 1,
-      "u": "kg",
-      "cat": "தானியங்கள்",
-      "st": 11100,
-      "wa": 5,
-      "ord": 3,
-      "pin": false
-    }
-  ],
+  "products": [],
   "accounts": [
     {
       "id": 1,
