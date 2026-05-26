@@ -1,6 +1,6 @@
 {
   "meta": {
-    "backupAt": "2026-05-26T03:46:46.231Z",
+    "backupAt": "2026-05-26T03:46:51.450Z",
     "shopName": "S.N.A RAJA RICE & GROCERY",
     "billCounter": 1015,
     "version": "sna4"
@@ -444,54 +444,6 @@
       "st": 12,
       "wa": 2,
       "ord": 35
-    },
-    {
-      "id": 36,
-      "e": "🫙",
-      "ta": "சோம்பு",
-      "en": "Fennel Seeds",
-      "pr": 200,
-      "u": "kg",
-      "cat": "மசாலா",
-      "st": 8,
-      "wa": 2,
-      "ord": 36
-    },
-    {
-      "id": 37,
-      "e": "🫙",
-      "ta": "புளி",
-      "en": "Tamarind",
-      "pr": 130,
-      "u": "kg",
-      "cat": "மசாலா",
-      "st": 20,
-      "wa": 3,
-      "ord": 37
-    },
-    {
-      "id": 38,
-      "e": "🫙",
-      "ta": "இஞ்சி",
-      "en": "Ginger",
-      "pr": 120,
-      "u": "kg",
-      "cat": "மசாலா",
-      "st": 14,
-      "wa": 3,
-      "ord": 38
-    },
-    {
-      "id": 39,
-      "e": "🌿",
-      "ta": "கறிவேப்பிலை",
-      "en": "Curry Leaves",
-      "pr": 20,
-      "u": "packet",
-      "cat": "மசாலா",
-      "st": 30,
-      "wa": 5,
-      "ord": 39
     },
     {
       "id": 45,
