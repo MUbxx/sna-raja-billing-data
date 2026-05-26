@@ -1,6 +1,6 @@
 {
   "meta": {
-    "backupAt": "2026-05-26T03:45:05.486Z",
+    "backupAt": "2026-05-26T03:45:07.542Z",
     "shopName": "S.N.A RAJA RICE & GROCERY",
     "billCounter": 1015,
     "version": "sna4"
@@ -33,19 +33,6 @@
     }
   ],
   "products": [
-    {
-      "id": 1,
-      "e": "🌾",
-      "ta": "அரிசி (Sona Masoori)",
-      "en": "Sona Masoori Rice",
-      "pr": 58,
-      "u": "kg",
-      "cat": "தானியங்கள்",
-      "st": 493,
-      "wa": 5,
-      "pin": true,
-      "ord": 1
-    },
     {
       "id": 2,
       "e": "🌾",
