@@ -1,6 +1,6 @@
 {
   "meta": {
-    "backupAt": "2026-05-26T03:47:40.615Z",
+    "backupAt": "2026-05-26T03:47:43.732Z",
     "shopName": "S.N.A RAJA RICE & GROCERY",
     "billCounter": 1015,
     "version": "sna4"
@@ -84,32 +84,6 @@
       "wa": 10,
       "pin": true,
       "ord": 16
-    },
-    {
-      "id": 45,
-      "e": "🥛",
-      "ta": "பால்",
-      "en": "Milk",
-      "pr": 58,
-      "u": "litre",
-      "cat": "பால் பொருட்கள்",
-      "st": 998,
-      "wa": 10,
-      "pin": true,
-      "ord": 45
-    },
-    {
-      "id": 50,
-      "e": "🧂",
-      "ta": "உப்பு",
-      "en": "Salt",
-      "pr": 25,
-      "u": "kg",
-      "cat": "சர்க்கரை & உப்பு",
-      "st": 59,
-      "wa": 5,
-      "pin": true,
-      "ord": 50
     }
   ],
   "accounts": [
