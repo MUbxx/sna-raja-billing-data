@@ -1,6 +1,6 @@
 {
   "meta": {
-    "backupAt": "2026-05-26T03:46:43.672Z",
+    "backupAt": "2026-05-26T03:46:46.231Z",
     "shopName": "S.N.A RAJA RICE & GROCERY",
     "billCounter": 1015,
     "version": "sna4"
@@ -492,42 +492,6 @@
       "st": 30,
       "wa": 5,
       "ord": 39
-    },
-    {
-      "id": 40,
-      "e": "🫙",
-      "ta": "எள்",
-      "en": "Sesame Seeds",
-      "pr": 180,
-      "u": "kg",
-      "cat": "மசாலா",
-      "st": 10,
-      "wa": 2,
-      "ord": 40
-    },
-    {
-      "id": 41,
-      "e": "🫚",
-      "ta": "நல்லெண்ணெய்",
-      "en": "Sesame Oil",
-      "pr": 180,
-      "u": "litre",
-      "cat": "எண்ணெய்",
-      "st": 28.5,
-      "wa": 5,
-      "ord": 41
-    },
-    {
-      "id": 42,
-      "e": "🫚",
-      "ta": "தேங்காய் எண்ணெய்",
-      "en": "Coconut Oil",
-      "pr": 220,
-      "u": "litre",
-      "cat": "எண்ணெய்",
-      "st": 25,
-      "wa": 5,
-      "ord": 42
     },
     {
       "id": 45,
