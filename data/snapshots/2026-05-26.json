@@ -1,6 +1,6 @@
 {
   "meta": {
-    "backupAt": "2026-05-26T03:47:46.374Z",
+    "backupAt": "2026-05-26T03:49:41.534Z",
     "shopName": "S.N.A RAJA RICE & GROCERY",
     "billCounter": 1015,
     "version": "sna4"
@@ -45,6 +45,19 @@
       "wa": 5,
       "pin": true,
       "ord": 2
+    },
+    {
+      "id": 3,
+      "e": "🌾",
+      "ta": "து. பருப்பு",
+      "en": "thuvaram paruppu",
+      "pr": 1,
+      "u": "kg",
+      "cat": "தானியங்கள்",
+      "st": 11100,
+      "wa": 5,
+      "ord": 3,
+      "pin": false
     }
   ],
   "accounts": [
