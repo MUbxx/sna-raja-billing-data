@@ -1,6 +1,6 @@
 {
   "meta": {
-    "backupAt": "2026-05-26T03:47:04.916Z",
+    "backupAt": "2026-05-26T03:47:08.538Z",
     "shopName": "S.N.A RAJA RICE & GROCERY",
     "billCounter": 1015,
     "version": "sna4"
@@ -288,18 +288,6 @@
       "st": 30,
       "wa": 5,
       "ord": 22
-    },
-    {
-      "id": 23,
-      "e": "🥒",
-      "ta": "வெள்ளரிக்காய்",
-      "en": "Cucumber",
-      "pr": 30,
-      "u": "kg",
-      "cat": "காய்கறி",
-      "st": 19,
-      "wa": 5,
-      "ord": 23
     },
     {
       "id": 45,
