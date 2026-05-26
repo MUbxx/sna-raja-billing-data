@@ -1,6 +1,6 @@
 {
   "meta": {
-    "backupAt": "2026-05-26T09:31:20.676Z",
+    "backupAt": "2026-05-26T09:32:05.633Z",
     "shopName": "S.N.A RAJA RICE & GROCERY",
     "billCounter": 1015,
     "version": "sna4"
@@ -57,6 +57,19 @@
       "st": 100,
       "wa": 1,
       "ord": 2,
+      "pin": false
+    },
+    {
+      "id": 3,
+      "e": "🍚",
+      "ta": "குருனை",
+      "en": "Kurunai",
+      "pr": 1,
+      "u": "kg",
+      "cat": "தானியங்கள்",
+      "st": 10000,
+      "wa": 1,
+      "ord": 3,
       "pin": false
     }
   ],
