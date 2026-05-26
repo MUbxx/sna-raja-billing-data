@@ -1,6 +1,6 @@
 {
   "meta": {
-    "backupAt": "2026-05-26T03:46:41.994Z",
+    "backupAt": "2026-05-26T03:46:44.560Z",
     "shopName": "S.N.A RAJA RICE & GROCERY",
     "billCounter": 1015,
     "version": "sna4"
@@ -516,42 +516,6 @@
       "st": 28.5,
       "wa": 5,
       "ord": 41
-    },
-    {
-      "id": 42,
-      "e": "🫚",
-      "ta": "தேங்காய் எண்ணெய்",
-      "en": "Coconut Oil",
-      "pr": 220,
-      "u": "litre",
-      "cat": "எண்ணெய்",
-      "st": 25,
-      "wa": 5,
-      "ord": 42
-    },
-    {
-      "id": 43,
-      "e": "🫚",
-      "ta": "சூரியகாந்தி எண்ணெய்",
-      "en": "Sunflower Oil",
-      "pr": 140,
-      "u": "litre",
-      "cat": "எண்ணெய்",
-      "st": 40,
-      "wa": 5,
-      "ord": 43
-    },
-    {
-      "id": 44,
-      "e": "🫚",
-      "ta": "கடலை எண்ணெய்",
-      "en": "Groundnut Oil",
-      "pr": 165,
-      "u": "litre",
-      "cat": "எண்ணெய்",
-      "st": 35,
-      "wa": 5,
-      "ord": 44
     },
     {
       "id": 45,
