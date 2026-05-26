@@ -1,6 +1,6 @@
 {
   "meta": {
-    "backupAt": "2026-05-26T03:46:53.460Z",
+    "backupAt": "2026-05-26T03:46:55.722Z",
     "shopName": "S.N.A RAJA RICE & GROCERY",
     "billCounter": 1015,
     "version": "sna4"
@@ -384,42 +384,6 @@
       "st": 10,
       "wa": 2,
       "ord": 30
-    },
-    {
-      "id": 31,
-      "e": "🫙",
-      "ta": "மிளகு",
-      "en": "Black Pepper",
-      "pr": 700,
-      "u": "kg",
-      "cat": "மசாலா",
-      "st": 5,
-      "wa": 2,
-      "ord": 31
-    },
-    {
-      "id": 32,
-      "e": "🫙",
-      "ta": "சீரகம்",
-      "en": "Cumin",
-      "pr": 350,
-      "u": "kg",
-      "cat": "மசாலா",
-      "st": 8,
-      "wa": 2,
-      "ord": 32
-    },
-    {
-      "id": 33,
-      "e": "🫙",
-      "ta": "கொத்தமல்லி தூள்",
-      "en": "Coriander Powder",
-      "pr": 160,
-      "u": "kg",
-      "cat": "மசாலா",
-      "st": 12,
-      "wa": 2,
-      "ord": 33
     },
     {
       "id": 45,
