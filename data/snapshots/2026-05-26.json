@@ -1,6 +1,6 @@
 {
   "meta": {
-    "backupAt": "2026-05-26T03:45:50.460Z",
+    "backupAt": "2026-05-26T03:46:43.672Z",
     "shopName": "S.N.A RAJA RICE & GROCERY",
     "billCounter": 1015,
     "version": "sna4"
@@ -518,16 +518,16 @@
       "ord": 41
     },
     {
-      "id": 43,
+      "id": 42,
       "e": "🫚",
-      "ta": "சூரியகாந்தி எண்ணெய்",
-      "en": "Sunflower Oil",
-      "pr": 140,
+      "ta": "தேங்காய் எண்ணெய்",
+      "en": "Coconut Oil",
+      "pr": 220,
       "u": "litre",
       "cat": "எண்ணெய்",
-      "st": 40,
+      "st": 25,
       "wa": 5,
-      "ord": 43
+      "ord": 42
     },
     {
       "id": 45,
@@ -567,18 +567,6 @@
       "wa": 10,
       "pin": true,
       "ord": 51
-    },
-    {
-      "id": 61,
-      "e": "🫘",
-      "ta": "சோயா",
-      "en": "Soya Chunks",
-      "pr": 120,
-      "u": "kg",
-      "cat": "பருப்பு",
-      "st": 20,
-      "wa": 3,
-      "ord": 61
     }
   ],
   "accounts": [
