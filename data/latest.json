@@ -1,6 +1,6 @@
 {
   "meta": {
-    "backupAt": "2026-05-26T03:45:40.348Z",
+    "backupAt": "2026-05-26T03:45:42.958Z",
     "shopName": "S.N.A RAJA RICE & GROCERY",
     "billCounter": 1015,
     "version": "sna4"
@@ -687,42 +687,6 @@
       "st": 10,
       "wa": 2,
       "ord": 55
-    },
-    {
-      "id": 56,
-      "e": "🍵",
-      "ta": "தேயிலை",
-      "en": "Tea",
-      "pr": 300,
-      "u": "kg",
-      "cat": "பிற",
-      "st": 15,
-      "wa": 3,
-      "ord": 56
-    },
-    {
-      "id": 57,
-      "e": "🧃",
-      "ta": "தண்ணீர் பாட்டில்",
-      "en": "Water Bottle",
-      "pr": 20,
-      "u": "piece",
-      "cat": "பிற",
-      "st": 50,
-      "wa": 10,
-      "ord": 57
-    },
-    {
-      "id": 58,
-      "e": "🌾",
-      "ta": "பொரி",
-      "en": "Puffed Rice",
-      "pr": 40,
-      "u": "kg",
-      "cat": "பிற",
-      "st": 15,
-      "wa": 3,
-      "ord": 58
     },
     {
       "id": 61,
