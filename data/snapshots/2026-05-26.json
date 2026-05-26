@@ -1,6 +1,6 @@
 {
   "meta": {
-    "backupAt": "2026-05-26T03:45:07.542Z",
+    "backupAt": "2026-05-26T03:45:38.412Z",
     "shopName": "S.N.A RAJA RICE & GROCERY",
     "billCounter": 1015,
     "version": "sna4"
@@ -759,18 +759,6 @@
       "st": 20,
       "wa": 3,
       "ord": 61
-    },
-    {
-      "id": 62,
-      "e": "🌾",
-      "ta": "கம்பு மாவு",
-      "en": "Millet Flour",
-      "pr": 55,
-      "u": "kg",
-      "cat": "தானியங்கள்",
-      "st": 25,
-      "wa": 3,
-      "ord": 62
     }
   ],
   "accounts": [
