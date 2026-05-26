@@ -1,6 +1,6 @@
 {
   "meta": {
-    "backupAt": "2026-05-26T09:27:53.742Z",
+    "backupAt": "2026-05-26T09:28:43.845Z",
     "shopName": "S.N.A RAJA RICE & GROCERY",
     "billCounter": 1015,
     "version": "sna4"
@@ -32,7 +32,21 @@
       "time": "9/5/2026, 1:03:43 PM"
     }
   ],
-  "products": [],
+  "products": [
+    {
+      "id": 1,
+      "e": "🍚",
+      "ta": "இட்லி அரிசி",
+      "en": "Idly arisi",
+      "pr": 1,
+      "u": "kg",
+      "cat": "தானியங்கள்",
+      "st": 1,
+      "wa": 1,
+      "ord": 1,
+      "pin": false
+    }
+  ],
   "accounts": [
     {
       "id": 1,
