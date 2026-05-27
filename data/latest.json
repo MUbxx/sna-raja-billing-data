@@ -1,6 +1,6 @@
 {
   "meta": {
-    "backupAt": "2026-05-27T09:21:49.255Z",
+    "backupAt": "2026-05-27T09:23:11.237Z",
     "shopName": "S.N.A RAJA RICE & GROCERY",
     "billCounter": 1015,
     "version": "sna4"
@@ -109,6 +109,19 @@
       "st": 10000,
       "wa": 1,
       "ord": 6,
+      "pin": false
+    },
+    {
+      "id": 7,
+      "e": "🍚",
+      "ta": "துளசி அரிசி",
+      "en": "Tulasi Biryani Rice",
+      "pr": 1,
+      "u": "kg",
+      "cat": "தானியங்கள்",
+      "st": 10000,
+      "wa": 1,
+      "ord": 7,
       "pin": false
     }
   ],
