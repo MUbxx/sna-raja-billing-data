@@ -1,6 +1,6 @@
 {
   "meta": {
-    "backupAt": "2026-05-27T09:20:28.603Z",
+    "backupAt": "2026-05-27T09:21:18.815Z",
     "shopName": "S.N.A RAJA RICE & GROCERY",
     "billCounter": 1015,
     "version": "sna4"
@@ -83,6 +83,19 @@
       "st": 100000,
       "wa": 1,
       "ord": 4,
+      "pin": false
+    },
+    {
+      "id": 5,
+      "e": "🍚",
+      "ta": "பொன்னி அரிசி",
+      "en": "Ponni Rice",
+      "pr": 1,
+      "u": "kg",
+      "cat": "தானியங்கள்",
+      "st": 10000,
+      "wa": 1,
+      "ord": 5,
       "pin": false
     }
   ],
