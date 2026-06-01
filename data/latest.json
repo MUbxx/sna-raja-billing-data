@@ -1,6 +1,6 @@
 {
   "meta": {
-    "backupAt": "2026-05-30T17:51:33.639Z",
+    "backupAt": "2026-06-01T15:00:02.774Z",
     "shopName": "S.N.A RAJA RICE & GROCERY",
     "billCounter": 1015,
     "version": "sna4"
@@ -148,6 +148,19 @@
       "st": 10000,
       "wa": 1,
       "ord": 9,
+      "pin": false
+    },
+    {
+      "id": 10,
+      "e": "🍚",
+      "ta": "சூ பொன்னி",
+      "en": "Super Ponni",
+      "pr": 1,
+      "u": "kg",
+      "cat": "தானியங்கள்",
+      "st": 10000,
+      "wa": 1,
+      "ord": 10,
       "pin": false
     }
   ],
