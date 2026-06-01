@@ -1,6 +1,6 @@
 {
   "meta": {
-    "backupAt": "2026-06-01T15:12:32.453Z",
+    "backupAt": "2026-06-01T15:13:13.409Z",
     "shopName": "S.N.A RAJA RICE & GROCERY",
     "billCounter": 1015,
     "version": "sna4"
@@ -265,6 +265,19 @@
       "st": 1000,
       "wa": 1,
       "ord": 18,
+      "pin": false
+    },
+    {
+      "id": 19,
+      "e": "🫛",
+      "ta": "ரஸ்க்",
+      "en": "Rusk",
+      "pr": 1,
+      "u": "kg",
+      "cat": "தானியங்கள்",
+      "st": 1000000,
+      "wa": 1,
+      "ord": 19,
       "pin": false
     }
   ],
