@@ -1,6 +1,6 @@
 {
   "meta": {
-    "backupAt": "2026-06-01T15:11:52.853Z",
+    "backupAt": "2026-06-01T15:12:32.453Z",
     "shopName": "S.N.A RAJA RICE & GROCERY",
     "billCounter": 1015,
     "version": "sna4"
@@ -252,6 +252,19 @@
       "st": 100000,
       "wa": 1,
       "ord": 17,
+      "pin": false
+    },
+    {
+      "id": 18,
+      "e": "🧄",
+      "ta": "பூண்டு",
+      "en": "Garlic",
+      "pr": 1,
+      "u": "kg",
+      "cat": "தானியங்கள்",
+      "st": 1000,
+      "wa": 1,
+      "ord": 18,
       "pin": false
     }
   ],
