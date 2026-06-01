@@ -1,6 +1,6 @@
 {
   "meta": {
-    "backupAt": "2026-06-01T15:08:43.847Z",
+    "backupAt": "2026-06-01T15:09:50.854Z",
     "shopName": "S.N.A RAJA RICE & GROCERY",
     "billCounter": 1015,
     "version": "sna4"
@@ -213,6 +213,19 @@
       "st": 10000,
       "wa": 1,
       "ord": 14,
+      "pin": false
+    },
+    {
+      "id": 15,
+      "e": "🌾",
+      "ta": "ப. பருப்பு",
+      "en": "moong dal",
+      "pr": 1,
+      "u": "kg",
+      "cat": "தானியங்கள்",
+      "st": 10000,
+      "wa": 1,
+      "ord": 15,
       "pin": false
     }
   ],
