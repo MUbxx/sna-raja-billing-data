@@ -1,6 +1,6 @@
 {
   "meta": {
-    "backupAt": "2026-06-01T15:07:42.109Z",
+    "backupAt": "2026-06-01T15:08:26.177Z",
     "shopName": "S.N.A RAJA RICE & GROCERY",
     "billCounter": 1015,
     "version": "sna4"
@@ -200,6 +200,19 @@
       "st": 10000,
       "wa": 1,
       "ord": 13,
+      "pin": false
+    },
+    {
+      "id": 14,
+      "e": "🌾",
+      "ta": "து.பருப்பு",
+      "en": "Urad dal",
+      "pr": 1,
+      "u": "kg",
+      "cat": "தானியங்கள்",
+      "st": 10000,
+      "wa": 1,
+      "ord": 14,
       "pin": false
     }
   ],
