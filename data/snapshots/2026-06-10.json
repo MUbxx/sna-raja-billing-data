@@ -1,6 +1,6 @@
 {
   "meta": {
-    "backupAt": "2026-06-10T10:23:06.042Z",
+    "backupAt": "2026-06-10T10:23:40.249Z",
     "shopName": "S.N.A RAJA RICE & GROCERY",
     "billCounter": 1015,
     "version": "sna4"
@@ -343,6 +343,19 @@
       "st": 10000,
       "wa": 1,
       "ord": 24,
+      "pin": false
+    },
+    {
+      "id": 25,
+      "e": "🐟",
+      "ta": "கடலை புண்ணாக்கு",
+      "en": "Kadailai punnaku",
+      "pr": 1,
+      "u": "kg",
+      "cat": "தானியங்கள்",
+      "st": 100000,
+      "wa": 1,
+      "ord": 25,
       "pin": false
     }
   ],
