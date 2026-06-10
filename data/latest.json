@@ -1,6 +1,6 @@
 {
   "meta": {
-    "backupAt": "2026-06-10T10:31:32.298Z",
+    "backupAt": "2026-06-10T10:31:53.456Z",
     "shopName": "S.N.A RAJA RICE & GROCERY",
     "billCounter": 1015,
     "version": "sna4"
@@ -486,6 +486,19 @@
       "st": 100000,
       "wa": 1,
       "ord": 35,
+      "pin": false
+    },
+    {
+      "id": 36,
+      "e": "🫙",
+      "ta": "மிளகு",
+      "en": "Milagu",
+      "pr": 1,
+      "u": "kg",
+      "cat": "தானியங்கள்",
+      "st": 10000,
+      "wa": 1,
+      "ord": 36,
       "pin": false
     }
   ],
