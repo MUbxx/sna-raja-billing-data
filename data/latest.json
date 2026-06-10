@@ -1,6 +1,6 @@
 {
   "meta": {
-    "backupAt": "2026-06-10T10:32:21.441Z",
+    "backupAt": "2026-06-10T10:32:53.923Z",
     "shopName": "S.N.A RAJA RICE & GROCERY",
     "billCounter": 1015,
     "version": "sna4"
@@ -512,6 +512,19 @@
       "st": 10000,
       "wa": 1,
       "ord": 37,
+      "pin": false
+    },
+    {
+      "id": 38,
+      "e": "🫙",
+      "ta": "பட்டை",
+      "en": "Pattai",
+      "pr": 1,
+      "u": "kg",
+      "cat": "தானியங்கள்",
+      "st": 10000,
+      "wa": 1,
+      "ord": 38,
       "pin": false
     }
   ],
