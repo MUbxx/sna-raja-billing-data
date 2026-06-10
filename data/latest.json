@@ -1,6 +1,6 @@
 {
   "meta": {
-    "backupAt": "2026-06-10T10:21:38.565Z",
+    "backupAt": "2026-06-10T10:22:52.803Z",
     "shopName": "S.N.A RAJA RICE & GROCERY",
     "billCounter": 1015,
     "version": "sna4"
@@ -330,6 +330,19 @@
       "st": 100000,
       "wa": 1,
       "ord": 23,
+      "pin": false
+    },
+    {
+      "id": 24,
+      "e": "🐟",
+      "ta": "குச்சி தீவணம்",
+      "en": "K.S Kuchchi theevanam",
+      "pr": 1,
+      "u": "kg",
+      "cat": "தானியங்கள்",
+      "st": 10000,
+      "wa": 1,
+      "ord": 24,
       "pin": false
     }
   ],
