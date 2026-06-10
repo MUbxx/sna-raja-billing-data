@@ -1,6 +1,6 @@
 {
   "meta": {
-    "backupAt": "2026-06-10T10:19:17.593Z",
+    "backupAt": "2026-06-10T10:19:47.936Z",
     "shopName": "S.N.A RAJA RICE & GROCERY",
     "billCounter": 1015,
     "version": "sna4"
@@ -291,6 +291,19 @@
       "st": 1000000,
       "wa": 1,
       "ord": 20,
+      "pin": false
+    },
+    {
+      "id": 21,
+      "e": "🌽",
+      "ta": "மல்லி",
+      "en": "Malli",
+      "pr": 1,
+      "u": "kg",
+      "cat": "தானியங்கள்",
+      "st": 100000,
+      "wa": 1,
+      "ord": 21,
       "pin": false
     }
   ],
