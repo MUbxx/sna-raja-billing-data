@@ -1,6 +1,6 @@
 {
   "meta": {
-    "backupAt": "2026-06-10T10:19:47.936Z",
+    "backupAt": "2026-06-10T10:20:55.205Z",
     "shopName": "S.N.A RAJA RICE & GROCERY",
     "billCounter": 1015,
     "version": "sna4"
@@ -304,6 +304,19 @@
       "st": 100000,
       "wa": 1,
       "ord": 21,
+      "pin": false
+    },
+    {
+      "id": 22,
+      "e": "🫛",
+      "ta": "கோதுமை தவிடு",
+      "en": "Thavidu",
+      "pr": 1,
+      "u": "kg",
+      "cat": "தானியங்கள்",
+      "st": 100000,
+      "wa": 1,
+      "ord": 22,
       "pin": false
     }
   ],
