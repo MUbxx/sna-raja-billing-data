@@ -1,6 +1,6 @@
 {
   "meta": {
-    "backupAt": "2026-06-10T10:26:27.088Z",
+    "backupAt": "2026-06-10T10:27:24.623Z",
     "shopName": "S.N.A RAJA RICE & GROCERY",
     "billCounter": 1015,
     "version": "sna4"
@@ -395,6 +395,19 @@
       "st": 10000,
       "wa": 1,
       "ord": 28,
+      "pin": false
+    },
+    {
+      "id": 29,
+      "e": "🐟",
+      "ta": "உளுந்தம் பொட்டு",
+      "en": "Uluntham pottu",
+      "pr": 1,
+      "u": "kg",
+      "cat": "தானியங்கள்",
+      "st": 10000,
+      "wa": 1,
+      "ord": 29,
       "pin": false
     }
   ],
