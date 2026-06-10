@@ -1,6 +1,6 @@
 {
   "meta": {
-    "backupAt": "2026-06-10T10:17:41.007Z",
+    "backupAt": "2026-06-10T10:19:17.593Z",
     "shopName": "S.N.A RAJA RICE & GROCERY",
     "billCounter": 1015,
     "version": "sna4"
@@ -278,6 +278,19 @@
       "st": 1000000,
       "wa": 1,
       "ord": 19,
+      "pin": false
+    },
+    {
+      "id": 20,
+      "e": "🌶️",
+      "ta": "மிளகாய்",
+      "en": "Milagai",
+      "pr": 1,
+      "u": "kg",
+      "cat": "தானியங்கள்",
+      "st": 1000000,
+      "wa": 1,
+      "ord": 20,
       "pin": false
     }
   ],
