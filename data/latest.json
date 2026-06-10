@@ -1,6 +1,6 @@
 {
   "meta": {
-    "backupAt": "2026-06-10T10:28:03.296Z",
+    "backupAt": "2026-06-10T10:29:12.615Z",
     "shopName": "S.N.A RAJA RICE & GROCERY",
     "billCounter": 1015,
     "version": "sna4"
@@ -421,6 +421,19 @@
       "st": 100000,
       "wa": 1,
       "ord": 30,
+      "pin": false
+    },
+    {
+      "id": 31,
+      "e": "🫙",
+      "ta": "கல் உப்பு",
+      "en": "Salt",
+      "pr": 1,
+      "u": "kg",
+      "cat": "தானியங்கள்",
+      "st": 1000000,
+      "wa": 1,
+      "ord": 31,
       "pin": false
     }
   ],
