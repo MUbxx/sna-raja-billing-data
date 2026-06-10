@@ -1,6 +1,6 @@
 {
   "meta": {
-    "backupAt": "2026-06-10T10:25:39.246Z",
+    "backupAt": "2026-06-10T10:26:27.088Z",
     "shopName": "S.N.A RAJA RICE & GROCERY",
     "billCounter": 1015,
     "version": "sna4"
@@ -382,6 +382,19 @@
       "st": 1000000,
       "wa": 1,
       "ord": 27,
+      "pin": false
+    },
+    {
+      "id": 28,
+      "e": "🐟",
+      "ta": "கலப்பு தீவனம்",
+      "en": "Kalappu theevanam",
+      "pr": 1,
+      "u": "kg",
+      "cat": "தானியங்கள்",
+      "st": 10000,
+      "wa": 1,
+      "ord": 28,
       "pin": false
     }
   ],
