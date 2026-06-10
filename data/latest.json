@@ -1,6 +1,6 @@
 {
   "meta": {
-    "backupAt": "2026-06-10T10:30:52.108Z",
+    "backupAt": "2026-06-10T10:31:10.577Z",
     "shopName": "S.N.A RAJA RICE & GROCERY",
     "billCounter": 1015,
     "version": "sna4"
@@ -460,6 +460,19 @@
       "st": 10000,
       "wa": 1,
       "ord": 33,
+      "pin": false
+    },
+    {
+      "id": 34,
+      "e": "🫙",
+      "ta": "சோம்பு",
+      "en": "Sombu",
+      "pr": 1,
+      "u": "kg",
+      "cat": "தானியங்கள்",
+      "st": 10000,
+      "wa": 1,
+      "ord": 34,
       "pin": false
     }
   ],
