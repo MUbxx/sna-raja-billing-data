@@ -1,6 +1,6 @@
 {
   "meta": {
-    "backupAt": "2026-06-11T04:49:25.840Z",
+    "backupAt": "2026-06-11T04:50:10.765Z",
     "shopName": "S.N.A RAJA RICE & GROCERY",
     "billCounter": 1015,
     "version": "sna4"
@@ -582,8 +582,8 @@
     {
       "id": 43,
       "e": "🫙",
-      "ta": "பச்சை பட்டாணி",
-      "en": "pattani",
+      "ta": "பச்சை பயிர்",
+      "en": "pacha payir",
       "pr": 1,
       "u": "kg",
       "cat": "தானியங்கள்",
