@@ -1,6 +1,6 @@
 {
   "meta": {
-    "backupAt": "2026-06-10T11:47:59.160Z",
+    "backupAt": "2026-06-11T04:48:38.888Z",
     "shopName": "S.N.A RAJA RICE & GROCERY",
     "billCounter": 1015,
     "version": "sna4"
@@ -564,6 +564,19 @@
       "st": 1000000,
       "wa": 1,
       "ord": 41,
+      "pin": false
+    },
+    {
+      "id": 42,
+      "e": "🫙",
+      "ta": "ஜவ்வரிசி",
+      "en": "Javvarisi",
+      "pr": 1,
+      "u": "kg",
+      "cat": "தானியங்கள்",
+      "st": 100000,
+      "wa": 1,
+      "ord": 42,
       "pin": false
     }
   ],
