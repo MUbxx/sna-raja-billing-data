@@ -1,6 +1,6 @@
 {
   "meta": {
-    "backupAt": "2026-06-11T04:52:29.652Z",
+    "backupAt": "2026-06-11T04:52:58.230Z",
     "shopName": "S.N.A RAJA RICE & GROCERY",
     "billCounter": 1015,
     "version": "sna4"
@@ -629,6 +629,19 @@
       "st": 1000000,
       "wa": 1,
       "ord": 46,
+      "pin": false
+    },
+    {
+      "id": 47,
+      "e": "🫙",
+      "ta": "சிகப்பு மோச்சை",
+      "en": "Mochai",
+      "pr": 1,
+      "u": "kg",
+      "cat": "தானியங்கள்",
+      "st": 100000,
+      "wa": 1,
+      "ord": 47,
       "pin": false
     }
   ],
