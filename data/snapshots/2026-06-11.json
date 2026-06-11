@@ -1,6 +1,6 @@
 {
   "meta": {
-    "backupAt": "2026-06-11T04:52:58.230Z",
+    "backupAt": "2026-06-11T04:53:53.060Z",
     "shopName": "S.N.A RAJA RICE & GROCERY",
     "billCounter": 1015,
     "version": "sna4"
@@ -642,6 +642,19 @@
       "st": 100000,
       "wa": 1,
       "ord": 47,
+      "pin": false
+    },
+    {
+      "id": 48,
+      "e": "🫙",
+      "ta": "மஞ்சள்",
+      "en": "Turmeric",
+      "pr": 1,
+      "u": "kg",
+      "cat": "தானியங்கள்",
+      "st": 100000,
+      "wa": 1,
+      "ord": 48,
       "pin": false
     }
   ],
