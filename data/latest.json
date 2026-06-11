@@ -1,6 +1,6 @@
 {
   "meta": {
-    "backupAt": "2026-06-11T05:13:50.667Z",
+    "backupAt": "2026-06-11T05:14:12.690Z",
     "shopName": "S.N.A RAJA RICE & GROCERY",
     "billCounter": 1015,
     "version": "sna4"
@@ -51,7 +51,7 @@
       "e": "🍚",
       "ta": "இட்லி அரிசி சிப்பம்",
       "en": "Idly rice sippam",
-      "pr": 1,
+      "pr": 1100,
       "u": "kg",
       "cat": "தானியங்கள்",
       "st": 100,
@@ -64,7 +64,7 @@
       "e": "🍚",
       "ta": "குருனை",
       "en": "Kurunai",
-      "pr": 1,
+      "pr": 40,
       "u": "kg",
       "cat": "தானியங்கள்",
       "st": 10000,
