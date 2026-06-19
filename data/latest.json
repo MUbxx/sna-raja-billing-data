@@ -1,8 +1,8 @@
 {
   "meta": {
-    "backupAt": "2026-06-17T15:20:52.355Z",
+    "backupAt": "2026-06-19T15:52:13.628Z",
     "shopName": "S.N.A RAJA RICE & GROCERY",
-    "billCounter": 1016,
+    "billCounter": 1017,
     "version": "sna4"
   },
   "cfg": {
@@ -236,7 +236,7 @@
       "pr": 1,
       "u": "kg",
       "cat": "தானியங்கள்",
-      "st": 100000,
+      "st": 99999,
       "wa": 1,
       "ord": 16,
       "pin": false
@@ -366,7 +366,7 @@
       "pr": 1,
       "u": "kg",
       "cat": "தானியங்கள்",
-      "st": 100000,
+      "st": 99998.5,
       "wa": 1,
       "ord": 26,
       "pin": false
@@ -405,7 +405,7 @@
       "pr": 1,
       "u": "kg",
       "cat": "தானியங்கள்",
-      "st": 10000,
+      "st": 9985,
       "wa": 1,
       "ord": 29,
       "pin": false
@@ -548,7 +548,7 @@
       "pr": 1,
       "u": "kg",
       "cat": "தானியங்கள்",
-      "st": 10000,
+      "st": 9999,
       "wa": 1,
       "ord": 40,
       "pin": false
@@ -896,6 +896,62 @@
     }
   ],
   "transactions": [
+    {
+      "id": 1016,
+      "time": "9:22:13 PM",
+      "date": "2026-06-19",
+      "dateDisp": "19 ஜூன், 2026",
+      "timestamp": 1781884333112,
+      "custN": "—",
+      "custP": "",
+      "items": [
+        {
+          "id": 16,
+          "e": "🌾",
+          "ta": "க.பருப்பு",
+          "en": "Gram dap",
+          "pr": 1,
+          "u": "kg",
+          "qty": 1,
+          "tot": 1
+        },
+        {
+          "id": 29,
+          "e": "🐟",
+          "ta": "உளுந்தம் பொட்டு",
+          "en": "Uluntham pottu",
+          "pr": 1,
+          "u": "kg",
+          "qty": 15,
+          "tot": 15
+        },
+        {
+          "id": 40,
+          "e": "🫙",
+          "ta": "கிராம்பு",
+          "en": "kirambu",
+          "pr": 1,
+          "u": "kg",
+          "qty": 1,
+          "tot": 1
+        },
+        {
+          "id": 26,
+          "e": "🐟",
+          "ta": "எள்ளு புண்ணாக்கு",
+          "en": "Ellu punnaku",
+          "pr": 1,
+          "u": "kg",
+          "qty": 1.5,
+          "tot": 1.5
+        }
+      ],
+      "sub": 18.5,
+      "disc": 0,
+      "total": 18.5,
+      "payType": "gpay",
+      "itemCount": 4
+    },
     {
       "id": 1015,
       "time": "1:09:07 PM",
