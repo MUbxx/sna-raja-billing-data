@@ -1,6 +1,6 @@
 {
   "meta": {
-    "backupAt": "2026-06-19T16:46:57.073Z",
+    "backupAt": "2026-06-19T16:51:21.571Z",
     "shopName": "S.N.A RAJA RICE & GROCERY",
     "billCounter": 1017,
     "version": "sna4"
@@ -9,7 +9,7 @@
     "wanum": "9442816720",
     "sname": "S.N.A RAJA RICE & GROCERY",
     "saddr": "Tiruppur, Tamil Nadu",
-    "upiid": "9442816720",
+    "upiid": "mohamedmubeen576-1@okaxis",
     "upiname": "Raja",
     "billSize": "80mm",
     "terms": ""
@@ -1533,6 +1533,5 @@
       "payType": "cash",
       "itemCount": 3
     }
-  ],
-  "payHistory": []
+  ]
 }
