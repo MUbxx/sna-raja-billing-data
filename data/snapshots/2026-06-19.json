@@ -1,6 +1,6 @@
 {
   "meta": {
-    "backupAt": "2026-06-19T16:51:21.571Z",
+    "backupAt": "2026-06-19T17:02:49.580Z",
     "shopName": "S.N.A RAJA RICE & GROCERY",
     "billCounter": 1017,
     "version": "sna4"
@@ -1533,5 +1533,6 @@
       "payType": "cash",
       "itemCount": 3
     }
-  ]
+  ],
+  "payHistory": []
 }
