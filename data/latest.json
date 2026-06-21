@@ -1,8 +1,8 @@
 {
   "meta": {
-    "backupAt": "2026-06-20T12:32:49.565Z",
+    "backupAt": "2026-06-21T16:50:39.312Z",
     "shopName": "S.N.A RAJA RICE & GROCERY",
-    "billCounter": 1017,
+    "billCounter": 1018,
     "version": "sna4"
   },
   "cfg": {
@@ -93,7 +93,7 @@
       "pr": 1,
       "u": "kg",
       "cat": "தானியங்கள்",
-      "st": 9999,
+      "st": 9998,
       "wa": 1,
       "ord": 5,
       "pin": false
@@ -897,6 +897,33 @@
   ],
   "transactions": [
     {
+      "id": 1017,
+      "time": "10:20:38 PM",
+      "date": "2026-06-21",
+      "dateDisp": "21 ஜூன், 2026",
+      "timestamp": 1782060638811,
+      "custN": "—",
+      "custP": "",
+      "items": [
+        {
+          "id": 5,
+          "e": "🍚",
+          "ta": "பொன்னி அரிசி",
+          "en": "Ponni Rice",
+          "pr": 1,
+          "u": "kg",
+          "qty": 1,
+          "tot": 1
+        }
+      ],
+      "sub": 1,
+      "disc": 0,
+      "total": 1,
+      "payType": "gpay",
+      "itemCount": 1,
+      "addedBy": "Admin 1"
+    },
+    {
       "id": 1016,
       "time": "9:22:13 PM",
       "date": "2026-06-19",
@@ -1533,6 +1560,5 @@
       "payType": "cash",
       "itemCount": 3
     }
-  ],
-  "payHistory": []
+  ]
 }
