@@ -1,0 +1,1564 @@
+{
+  "meta": {
+    "backupAt": "2026-06-21T16:50:39.312Z",
+    "shopName": "S.N.A RAJA RICE & GROCERY",
+    "billCounter": 1018,
+    "version": "sna4"
+  },
+  "cfg": {
+    "wanum": "9442816720",
+    "sname": "S.N.A RAJA RICE & GROCERY",
+    "saddr": "Tiruppur, Tamil Nadu",
+    "upiid": "mohamedmubeen576-1@okaxis",
+    "upiname": "Raja",
+    "billSize": "80mm",
+    "terms": ""
+  },
+  "cats": [
+    "தானியங்கள்",
+    "காய்கறி",
+    "பருப்பு",
+    "மசாலா",
+    "எண்ணெய்",
+    "பால் பொருட்கள்",
+    "சர்க்கரை & உப்பு",
+    "பழங்கள்",
+    "நறுமணப் பொருட்கள்",
+    "பிற"
+  ],
+  "notes": [
+    {
+      "txt": "Hi rahmathulla balance Rs. 11 kudukanu",
+      "time": "9/5/2026, 1:03:43 PM"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "e": "🍚",
+      "ta": "இட்லி அரிசி",
+      "en": "Idly arisi",
+      "pr": 48,
+      "u": "kg",
+      "cat": "தானியங்கள்",
+      "st": 100,
+      "wa": 1,
+      "ord": 1,
+      "pin": true
+    },
+    {
+      "id": 2,
+      "e": "🍚",
+      "ta": "இட்லி அரிசி சிப்பம்",
+      "en": "Idly rice sippam",
+      "pr": 1100,
+      "u": "kg",
+      "cat": "தானியங்கள்",
+      "st": 100,
+      "wa": 1,
+      "ord": 2,
+      "pin": false
+    },
+    {
+      "id": 3,
+      "e": "🍚",
+      "ta": "குருனை",
+      "en": "Kurunai",
+      "pr": 40,
+      "u": "kg",
+      "cat": "தானியங்கள்",
+      "st": 10000,
+      "wa": 1,
+      "ord": 3,
+      "pin": false
+    },
+    {
+      "id": 4,
+      "e": "🍚",
+      "ta": "குருனை சிப்பம்",
+      "en": "kurunai bag",
+      "pr": 1000,
+      "u": "kg",
+      "cat": "தானியங்கள்",
+      "st": 100000,
+      "wa": 1,
+      "ord": 4,
+      "pin": false
+    },
+    {
+      "id": 5,
+      "e": "🍚",
+      "ta": "பொன்னி அரிசி",
+      "en": "Ponni Rice",
+      "pr": 1,
+      "u": "kg",
+      "cat": "தானியங்கள்",
+      "st": 9998,
+      "wa": 1,
+      "ord": 5,
+      "pin": false
+    },
+    {
+      "id": 6,
+      "e": "🍚",
+      "ta": "பொன்னி அரிசி சிப்பம்",
+      "en": "Ponni Rice bag",
+      "pr": 1,
+      "u": "kg",
+      "cat": "தானியங்கள்",
+      "st": 10000,
+      "wa": 1,
+      "ord": 6,
+      "pin": false
+    },
+    {
+      "id": 7,
+      "e": "🍚",
+      "ta": "துளசி அரிசி",
+      "en": "Tulasi Biryani Rice",
+      "pr": 80,
+      "u": "kg",
+      "cat": "தானியங்கள்",
+      "st": 10000,
+      "wa": 1,
+      "ord": 7,
+      "pin": false
+    },
+    {
+      "id": 8,
+      "e": "🍚",
+      "ta": "பாஸ்மதி அரிசி",
+      "en": "Basmati Rice",
+      "pr": 1,
+      "u": "kg",
+      "cat": "தானியங்கள்",
+      "st": 10000,
+      "wa": 1,
+      "ord": 8,
+      "pin": false
+    },
+    {
+      "id": 9,
+      "e": "🍚",
+      "ta": "சீரக சம்பா",
+      "en": "Seeraga samba",
+      "pr": 185,
+      "u": "kg",
+      "cat": "தானியங்கள்",
+      "st": 10000,
+      "wa": 1,
+      "ord": 9,
+      "pin": false
+    },
+    {
+      "id": 10,
+      "e": "🍚",
+      "ta": "சூ பொன்னி",
+      "en": "Super Ponni",
+      "pr": 1,
+      "u": "kg",
+      "cat": "தானியங்கள்",
+      "st": 10000,
+      "wa": 1,
+      "ord": 10,
+      "pin": false
+    },
+    {
+      "id": 11,
+      "e": "🍚",
+      "ta": "சூ பொன்னி சிப்பம்",
+      "en": "Super ponni bag",
+      "pr": 1,
+      "u": "kg",
+      "cat": "தானியங்கள்",
+      "st": 100000,
+      "wa": 5,
+      "ord": 11,
+      "pin": false
+    },
+    {
+      "id": 12,
+      "e": "🍚",
+      "ta": "தேவை அரிசி",
+      "en": "Mis Rice",
+      "pr": 1,
+      "u": "kg",
+      "cat": "தானியங்கள்",
+      "st": 10000,
+      "wa": 1,
+      "ord": 12,
+      "pin": false
+    },
+    {
+      "id": 13,
+      "e": "🌾",
+      "ta": "து.பருப்பு",
+      "en": "moong dal",
+      "pr": 138,
+      "u": "kg",
+      "cat": "தானியங்கள்",
+      "st": 10000,
+      "wa": 1,
+      "ord": 13,
+      "pin": false
+    },
+    {
+      "id": 14,
+      "e": "🌾",
+      "ta": "உ.பருப்பு",
+      "en": "Urad dal",
+      "pr": 132,
+      "u": "kg",
+      "cat": "தானியங்கள்",
+      "st": 10000,
+      "wa": 1,
+      "ord": 14,
+      "pin": false
+    },
+    {
+      "id": 15,
+      "e": "🌾",
+      "ta": "ப. பருப்பு",
+      "en": "moong dal",
+      "pr": 1,
+      "u": "kg",
+      "cat": "தானியங்கள்",
+      "st": 10000,
+      "wa": 1,
+      "ord": 15,
+      "pin": false
+    },
+    {
+      "id": 16,
+      "e": "🌾",
+      "ta": "க.பருப்பு",
+      "en": "Gram dap",
+      "pr": 1,
+      "u": "kg",
+      "cat": "தானியங்கள்",
+      "st": 99999,
+      "wa": 1,
+      "ord": 16,
+      "pin": false
+    },
+    {
+      "id": 17,
+      "e": "🌾",
+      "ta": "ஜீனி",
+      "en": "White Sugar",
+      "pr": 1,
+      "u": "kg",
+      "cat": "தானியங்கள்",
+      "st": 100000,
+      "wa": 1,
+      "ord": 17,
+      "pin": false
+    },
+    {
+      "id": 18,
+      "e": "🧄",
+      "ta": "பூண்டு",
+      "en": "Garlic",
+      "pr": 1,
+      "u": "kg",
+      "cat": "தானியங்கள்",
+      "st": 1000,
+      "wa": 1,
+      "ord": 18,
+      "pin": false
+    },
+    {
+      "id": 19,
+      "e": "🫛",
+      "ta": "ரஸ்க்",
+      "en": "Rusk",
+      "pr": 1,
+      "u": "kg",
+      "cat": "தானியங்கள்",
+      "st": 1000000,
+      "wa": 1,
+      "ord": 19,
+      "pin": false
+    },
+    {
+      "id": 20,
+      "e": "🌶️",
+      "ta": "மிளகாய்",
+      "en": "Milagai",
+      "pr": 1,
+      "u": "kg",
+      "cat": "தானியங்கள்",
+      "st": 1000000,
+      "wa": 1,
+      "ord": 20,
+      "pin": false
+    },
+    {
+      "id": 21,
+      "e": "🌽",
+      "ta": "மல்லி",
+      "en": "Malli",
+      "pr": 1,
+      "u": "kg",
+      "cat": "தானியங்கள்",
+      "st": 100000,
+      "wa": 1,
+      "ord": 21,
+      "pin": false
+    },
+    {
+      "id": 22,
+      "e": "🫛",
+      "ta": "கோதுமை தவிடு",
+      "en": "Thavidu",
+      "pr": 1,
+      "u": "kg",
+      "cat": "தானியங்கள்",
+      "st": 100000,
+      "wa": 1,
+      "ord": 22,
+      "pin": false
+    },
+    {
+      "id": 23,
+      "e": "🐟",
+      "ta": "கருக்கா தவிடு",
+      "en": "Thavidu",
+      "pr": 1,
+      "u": "kg",
+      "cat": "தானியங்கள்",
+      "st": 100000,
+      "wa": 1,
+      "ord": 23,
+      "pin": false
+    },
+    {
+      "id": 24,
+      "e": "🐟",
+      "ta": "குச்சி தீவணம்",
+      "en": "K.S theevanam",
+      "pr": 1,
+      "u": "kg",
+      "cat": "தானியங்கள்",
+      "st": 10000,
+      "wa": 1,
+      "ord": 24,
+      "pin": false
+    },
+    {
+      "id": 25,
+      "e": "🐟",
+      "ta": "கடலை புண்ணாக்கு",
+      "en": "Kadailai punnaku",
+      "pr": 1,
+      "u": "kg",
+      "cat": "தானியங்கள்",
+      "st": 100000,
+      "wa": 1,
+      "ord": 25,
+      "pin": false
+    },
+    {
+      "id": 26,
+      "e": "🐟",
+      "ta": "எள்ளு புண்ணாக்கு",
+      "en": "Ellu punnaku",
+      "pr": 1,
+      "u": "kg",
+      "cat": "தானியங்கள்",
+      "st": 99998.5,
+      "wa": 1,
+      "ord": 26,
+      "pin": false
+    },
+    {
+      "id": 27,
+      "e": "🐟",
+      "ta": "பருத்தி கொட்டை",
+      "en": "Paruthi kottai",
+      "pr": 1,
+      "u": "kg",
+      "cat": "தானியங்கள்",
+      "st": 1000000,
+      "wa": 1,
+      "ord": 27,
+      "pin": false
+    },
+    {
+      "id": 28,
+      "e": "🐟",
+      "ta": "கலப்பு தீவனம்",
+      "en": "Kalappu theevanam",
+      "pr": 1,
+      "u": "kg",
+      "cat": "தானியங்கள்",
+      "st": 10000,
+      "wa": 1,
+      "ord": 28,
+      "pin": false
+    },
+    {
+      "id": 29,
+      "e": "🐟",
+      "ta": "உளுந்தம் பொட்டு",
+      "en": "Uluntham pottu",
+      "pr": 1,
+      "u": "kg",
+      "cat": "தானியங்கள்",
+      "st": 9985,
+      "wa": 1,
+      "ord": 29,
+      "pin": false
+    },
+    {
+      "id": 30,
+      "e": "🥚",
+      "ta": "முட்டை",
+      "en": "Egg",
+      "pr": 1,
+      "u": "kg",
+      "cat": "தானியங்கள்",
+      "st": 100000,
+      "wa": 1,
+      "ord": 30,
+      "pin": false
+    },
+    {
+      "id": 31,
+      "e": "🫙",
+      "ta": "கல் உப்பு",
+      "en": "Salt",
+      "pr": 1,
+      "u": "kg",
+      "cat": "தானியங்கள்",
+      "st": 1000000,
+      "wa": 1,
+      "ord": 31,
+      "pin": false
+    },
+    {
+      "id": 32,
+      "e": "🫙",
+      "ta": "தூள் உப்பு",
+      "en": "Salt",
+      "pr": 1,
+      "u": "kg",
+      "cat": "தானியங்கள்",
+      "st": 1000000,
+      "wa": 1,
+      "ord": 32,
+      "pin": false
+    },
+    {
+      "id": 33,
+      "e": "🫙",
+      "ta": "சீரகம்",
+      "en": "Seeragam",
+      "pr": 1,
+      "u": "kg",
+      "cat": "தானியங்கள்",
+      "st": 10000,
+      "wa": 1,
+      "ord": 33,
+      "pin": false
+    },
+    {
+      "id": 34,
+      "e": "🫙",
+      "ta": "சோம்பு",
+      "en": "Sombu",
+      "pr": 1,
+      "u": "kg",
+      "cat": "தானியங்கள்",
+      "st": 10000,
+      "wa": 1,
+      "ord": 34,
+      "pin": false
+    },
+    {
+      "id": 35,
+      "e": "🫙",
+      "ta": "கடுகு",
+      "en": "Kadugu",
+      "pr": 1,
+      "u": "kg",
+      "cat": "தானியங்கள்",
+      "st": 100000,
+      "wa": 1,
+      "ord": 35,
+      "pin": false
+    },
+    {
+      "id": 36,
+      "e": "🫙",
+      "ta": "மிளகு",
+      "en": "Milagu",
+      "pr": 1,
+      "u": "kg",
+      "cat": "தானியங்கள்",
+      "st": 10000,
+      "wa": 1,
+      "ord": 36,
+      "pin": false
+    },
+    {
+      "id": 37,
+      "e": "🫙",
+      "ta": "வெந்தயம்",
+      "en": "Vendhayam",
+      "pr": 1,
+      "u": "kg",
+      "cat": "தானியங்கள்",
+      "st": 10000,
+      "wa": 1,
+      "ord": 37,
+      "pin": false
+    },
+    {
+      "id": 38,
+      "e": "🫙",
+      "ta": "பட்டை",
+      "en": "Pattai",
+      "pr": 1,
+      "u": "kg",
+      "cat": "தானியங்கள்",
+      "st": 10000,
+      "wa": 1,
+      "ord": 38,
+      "pin": false
+    },
+    {
+      "id": 39,
+      "e": "🫙",
+      "ta": "ஏலக்காய்",
+      "en": "Elakkai",
+      "pr": 1,
+      "u": "kg",
+      "cat": "தானியங்கள்",
+      "st": 10000,
+      "wa": 1,
+      "ord": 39,
+      "pin": false
+    },
+    {
+      "id": 40,
+      "e": "🫙",
+      "ta": "கிராம்பு",
+      "en": "kirambu",
+      "pr": 1,
+      "u": "kg",
+      "cat": "தானியங்கள்",
+      "st": 9999,
+      "wa": 1,
+      "ord": 40,
+      "pin": false
+    },
+    {
+      "id": 41,
+      "e": "🥫",
+      "ta": "பச்சை பட்டாணி",
+      "en": "Pattani",
+      "pr": 1,
+      "u": "kg",
+      "cat": "தானியங்கள்",
+      "st": 1000000,
+      "wa": 1,
+      "ord": 41,
+      "pin": false
+    },
+    {
+      "id": 42,
+      "e": "🫙",
+      "ta": "ஜவ்வரிசி",
+      "en": "Javvarisi",
+      "pr": 1,
+      "u": "kg",
+      "cat": "தானியங்கள்",
+      "st": 100000,
+      "wa": 1,
+      "ord": 42,
+      "pin": false
+    },
+    {
+      "id": 43,
+      "e": "🫙",
+      "ta": "பச்சை பயிர்",
+      "en": "pacha payir",
+      "pr": 1,
+      "u": "kg",
+      "cat": "தானியங்கள்",
+      "st": 100000,
+      "wa": 1,
+      "ord": 43,
+      "pin": false
+    },
+    {
+      "id": 44,
+      "e": "🫙",
+      "ta": "சிகப்பு கொன்டை கடலை",
+      "en": "Konda kadalai",
+      "pr": 1,
+      "u": "kg",
+      "cat": "தானியங்கள்",
+      "st": 100000,
+      "wa": 1,
+      "ord": 44,
+      "pin": false
+    },
+    {
+      "id": 45,
+      "e": "🫙",
+      "ta": "வெள்ளை கொன்டை கடலை",
+      "en": "Konda kadalai",
+      "pr": 1,
+      "u": "kg",
+      "cat": "தானியங்கள்",
+      "st": 100000,
+      "wa": 1,
+      "ord": 45,
+      "pin": false
+    },
+    {
+      "id": 46,
+      "e": "🫙",
+      "ta": "வெள்ளை மோச்சை",
+      "en": "mochai",
+      "pr": 1,
+      "u": "kg",
+      "cat": "தானியங்கள்",
+      "st": 1000000,
+      "wa": 1,
+      "ord": 46,
+      "pin": false
+    },
+    {
+      "id": 47,
+      "e": "🫙",
+      "ta": "சிகப்பு மோச்சை",
+      "en": "Mochai",
+      "pr": 1,
+      "u": "kg",
+      "cat": "தானியங்கள்",
+      "st": 100000,
+      "wa": 1,
+      "ord": 47,
+      "pin": false
+    },
+    {
+      "id": 48,
+      "e": "🫙",
+      "ta": "மஞ்சள்",
+      "en": "Turmeric",
+      "pr": 1,
+      "u": "kg",
+      "cat": "தானியங்கள்",
+      "st": 100000,
+      "wa": 1,
+      "ord": 48,
+      "pin": false
+    },
+    {
+      "id": 49,
+      "e": "🌾",
+      "ta": "gpay",
+      "en": "gpay",
+      "pr": 1,
+      "u": "kg",
+      "cat": "தானியங்கள்",
+      "st": 10000,
+      "wa": 1,
+      "ord": 49,
+      "pin": false
+    }
+  ],
+  "accounts": [
+    {
+      "id": 1,
+      "name": "Mubeen",
+      "mobile": "9345805940",
+      "address": "North street , mk patty",
+      "txns": [
+        {
+          "type": "bill",
+          "amount": 25,
+          "billNo": 1002,
+          "items": 1,
+          "itemList": [
+            {
+              "id": 16,
+              "e": "🍅",
+              "ta": "தக்காளி",
+              "en": "Tomato",
+              "pr": 25,
+              "u": "kg",
+              "qty": 1,
+              "tot": 25
+            }
+          ],
+          "sub": 25,
+          "disc": 0,
+          "date": "2026-05-04",
+          "time": "5:44:53 PM",
+          "ts": 1777896893342
+        },
+        {
+          "type": "bill",
+          "amount": 120,
+          "billNo": 1003,
+          "items": 1,
+          "itemList": [
+            {
+              "id": 9,
+              "e": "🫘",
+              "ta": "துவரம் பருப்பு",
+              "en": "Toor Dal",
+              "pr": 120,
+              "u": "kg",
+              "qty": 1,
+              "tot": 120
+            }
+          ],
+          "sub": 120,
+          "disc": 0,
+          "date": "2026-05-04",
+          "time": "5:45:46 PM",
+          "ts": 1777896946760
+        },
+        {
+          "type": "payment",
+          "amount": 100,
+          "payMethod": "cash",
+          "date": "2026-05-04",
+          "time": "5:49:09 PM",
+          "ts": 1777897149929
+        },
+        {
+          "type": "bill",
+          "amount": 105,
+          "billNo": 1005,
+          "items": 1,
+          "itemList": [
+            {
+              "id": 12,
+              "e": "🫘",
+              "ta": "பாசிப்பருப்பு",
+              "en": "Moong Dal",
+              "pr": 105,
+              "u": "kg",
+              "qty": 1,
+              "tot": 105
+            }
+          ],
+          "sub": 105,
+          "disc": 0,
+          "date": "2026-05-06",
+          "time": "10:55:40 AM",
+          "ts": 1778045140158
+        },
+        {
+          "type": "bill",
+          "amount": 415,
+          "billNo": 1007,
+          "items": 2,
+          "itemList": [
+            {
+              "id": 16,
+              "e": "🍅",
+              "ta": "தக்காளி",
+              "en": "Tomato",
+              "pr": 25,
+              "u": "kg",
+              "qty": 5,
+              "tot": 125
+            },
+            {
+              "id": 45,
+              "e": "🥛",
+              "ta": "பால்",
+              "en": "Milk",
+              "pr": 58,
+              "u": "litre",
+              "qty": 5,
+              "tot": 290
+            }
+          ],
+          "sub": 415,
+          "disc": 0,
+          "date": "2026-05-06",
+          "time": "11:17:32 AM",
+          "ts": 1778046452124
+        },
+        {
+          "type": "payment",
+          "amount": 2500,
+          "payMethod": "cash",
+          "note": "",
+          "date": "2026-05-06",
+          "time": "10:16:47 PM",
+          "ts": 1778086007589
+        },
+        {
+          "type": "payment",
+          "amount": 5,
+          "payMethod": "cash",
+          "note": "",
+          "date": "2026-05-06",
+          "time": "10:17:18 PM",
+          "ts": 1778086038458
+        }
+      ],
+      "createdAt": "2026-05-04T12:14:53.342Z",
+      "lastDate": "2026-05-06"
+    },
+    {
+      "id": 2,
+      "name": "syed",
+      "mobile": "9442816720",
+      "address": "-",
+      "txns": [
+        {
+          "type": "bill",
+          "amount": 58,
+          "billNo": 1004,
+          "items": 1,
+          "itemList": [
+            {
+              "id": 45,
+              "e": "🥛",
+              "ta": "பால்",
+              "en": "Milk",
+              "pr": 58,
+              "u": "litre",
+              "qty": 1,
+              "tot": 58
+            }
+          ],
+          "sub": 58,
+          "disc": 0,
+          "date": "2026-05-04",
+          "time": "5:48:30 PM",
+          "ts": 1777897110663
+        },
+        {
+          "type": "payment",
+          "amount": 58,
+          "payMethod": "gpay",
+          "date": "2026-05-04",
+          "time": "5:51:16 PM",
+          "ts": 1777897276207
+        }
+      ],
+      "createdAt": "2026-05-04T12:18:30.663Z",
+      "lastDate": "2026-05-04"
+    },
+    {
+      "id": 3,
+      "name": "Kaatukara sultha",
+      "mobile": "",
+      "address": "",
+      "txns": [
+        {
+          "type": "bill",
+          "amount": 357.6,
+          "billNo": 1012,
+          "items": 2,
+          "itemList": [
+            {
+              "id": 1,
+              "e": "🌾",
+              "ta": "அரிசி (Sona Masoori)",
+              "en": "Sona Masoori Rice",
+              "pr": 58,
+              "u": "kg",
+              "qty": 5,
+              "tot": 290
+            },
+            {
+              "id": 2,
+              "e": "🌾",
+              "ta": "இட்லி அரிசி",
+              "en": "Idli Rice",
+              "pr": 52,
+              "u": "kg",
+              "qty": 1.3,
+              "tot": 67.60000000000001
+            }
+          ],
+          "sub": 357.6,
+          "disc": 0,
+          "date": "2026-05-08",
+          "time": "10:02:15 PM",
+          "ts": 1778257935586
+        }
+      ],
+      "createdAt": "2026-05-08T16:32:15.586Z",
+      "lastDate": "2026-05-08"
+    }
+  ],
+  "transactions": [
+    {
+      "id": 1017,
+      "time": "10:20:38 PM",
+      "date": "2026-06-21",
+      "dateDisp": "21 ஜூன், 2026",
+      "timestamp": 1782060638811,
+      "custN": "—",
+      "custP": "",
+      "items": [
+        {
+          "id": 5,
+          "e": "🍚",
+          "ta": "பொன்னி அரிசி",
+          "en": "Ponni Rice",
+          "pr": 1,
+          "u": "kg",
+          "qty": 1,
+          "tot": 1
+        }
+      ],
+      "sub": 1,
+      "disc": 0,
+      "total": 1,
+      "payType": "gpay",
+      "itemCount": 1,
+      "addedBy": "Admin 1"
+    },
+    {
+      "id": 1016,
+      "time": "9:22:13 PM",
+      "date": "2026-06-19",
+      "dateDisp": "19 ஜூன், 2026",
+      "timestamp": 1781884333112,
+      "custN": "—",
+      "custP": "",
+      "items": [
+        {
+          "id": 16,
+          "e": "🌾",
+          "ta": "க.பருப்பு",
+          "en": "Gram dap",
+          "pr": 1,
+          "u": "kg",
+          "qty": 1,
+          "tot": 1
+        },
+        {
+          "id": 29,
+          "e": "🐟",
+          "ta": "உளுந்தம் பொட்டு",
+          "en": "Uluntham pottu",
+          "pr": 1,
+          "u": "kg",
+          "qty": 15,
+          "tot": 15
+        },
+        {
+          "id": 40,
+          "e": "🫙",
+          "ta": "கிராம்பு",
+          "en": "kirambu",
+          "pr": 1,
+          "u": "kg",
+          "qty": 1,
+          "tot": 1
+        },
+        {
+          "id": 26,
+          "e": "🐟",
+          "ta": "எள்ளு புண்ணாக்கு",
+          "en": "Ellu punnaku",
+          "pr": 1,
+          "u": "kg",
+          "qty": 1.5,
+          "tot": 1.5
+        }
+      ],
+      "sub": 18.5,
+      "disc": 0,
+      "total": 18.5,
+      "payType": "gpay",
+      "itemCount": 4
+    },
+    {
+      "id": 1015,
+      "time": "1:09:07 PM",
+      "date": "2026-06-15",
+      "dateDisp": "15 ஜூன், 2026",
+      "timestamp": 1781509147176,
+      "custN": "—",
+      "custP": "",
+      "items": [
+        {
+          "id": 5,
+          "e": "🍚",
+          "ta": "பொன்னி அரிசி",
+          "en": "Ponni Rice",
+          "pr": 1,
+          "u": "kg",
+          "qty": 1,
+          "tot": 1
+        }
+      ],
+      "sub": 1,
+      "disc": 0,
+      "total": 1,
+      "payType": "cash",
+      "itemCount": 1,
+      "addedBy": "Admin 1"
+    },
+    {
+      "id": 1014,
+      "time": "6:36:55 PM",
+      "date": "2026-05-09",
+      "dateDisp": "9 மே, 2026",
+      "timestamp": 1778332015092,
+      "custN": "—",
+      "custP": "",
+      "items": [
+        {
+          "id": 2,
+          "e": "🌾",
+          "ta": "இட்லி அரிசி",
+          "en": "Idli Rice",
+          "pr": 52,
+          "u": "kg",
+          "qty": 1,
+          "tot": 52
+        },
+        {
+          "id": 1,
+          "e": "🌾",
+          "ta": "அரிசி (Sona Masoori)",
+          "en": "Sona Masoori Rice",
+          "pr": 58,
+          "u": "kg",
+          "qty": 1,
+          "tot": 58
+        },
+        {
+          "id": 9,
+          "e": "🫘",
+          "ta": "துவரம் பருப்பு",
+          "en": "Toor Dal",
+          "pr": 120,
+          "u": "kg",
+          "qty": 1,
+          "tot": 120
+        }
+      ],
+      "sub": 230,
+      "disc": 0,
+      "total": 230,
+      "payType": "cash",
+      "itemCount": 3
+    },
+    {
+      "id": 1013,
+      "time": "5:17:10 AM",
+      "date": "2026-05-09",
+      "dateDisp": "9 மே, 2026",
+      "timestamp": 1778284030632,
+      "custN": "—",
+      "custP": "",
+      "items": [
+        {
+          "id": 16,
+          "e": "🍅",
+          "ta": "தக்காளி",
+          "en": "Tomato",
+          "pr": 25,
+          "u": "kg",
+          "qty": 1,
+          "tot": 25
+        },
+        {
+          "id": 51,
+          "e": "🍯",
+          "ta": "சர்க்கரை",
+          "en": "Sugar",
+          "pr": 42,
+          "u": "kg",
+          "qty": 2,
+          "tot": 84
+        },
+        {
+          "id": 3,
+          "e": "🌾",
+          "ta": "கோதுமை",
+          "en": "Wheat",
+          "pr": 38,
+          "u": "kg",
+          "qty": 0.5,
+          "tot": 19
+        }
+      ],
+      "sub": 128,
+      "disc": 0,
+      "total": 128,
+      "payType": "cash",
+      "itemCount": 3
+    },
+    {
+      "id": 1012,
+      "time": "10:02:15 PM",
+      "date": "2026-05-08",
+      "dateDisp": "8 மே, 2026",
+      "timestamp": 1778257935586,
+      "custN": "Kaatukara sultha",
+      "custP": "",
+      "items": [
+        {
+          "id": 1,
+          "e": "🌾",
+          "ta": "அரிசி (Sona Masoori)",
+          "en": "Sona Masoori Rice",
+          "pr": 58,
+          "u": "kg",
+          "qty": 5,
+          "tot": 290
+        },
+        {
+          "id": 2,
+          "e": "🌾",
+          "ta": "இட்லி அரிசி",
+          "en": "Idli Rice",
+          "pr": 52,
+          "u": "kg",
+          "qty": 1.3,
+          "tot": 67.60000000000001
+        }
+      ],
+      "sub": 357.6,
+      "disc": 0,
+      "total": 357.6,
+      "payType": "credit",
+      "itemCount": 2
+    },
+    {
+      "id": 1011,
+      "time": "9:49:15 PM",
+      "date": "2026-05-08",
+      "dateDisp": "8 மே, 2026",
+      "timestamp": 1778257155299,
+      "custN": "—",
+      "custP": "",
+      "items": [
+        {
+          "id": 1,
+          "e": "🌾",
+          "ta": "அரிசி (Sona Masoori)",
+          "en": "Sona Masoori Rice",
+          "pr": 58,
+          "u": "kg",
+          "qty": 1,
+          "tot": 58
+        },
+        {
+          "id": 3,
+          "e": "🌾",
+          "ta": "கோதுமை",
+          "en": "Wheat",
+          "pr": 38,
+          "u": "kg",
+          "qty": 1.3,
+          "tot": 49.4
+        }
+      ],
+      "sub": 107.4,
+      "disc": 0,
+      "total": 107.4,
+      "payType": "cash",
+      "itemCount": 2
+    },
+    {
+      "id": 1010,
+      "time": "12:33:05 PM",
+      "date": "2026-05-08",
+      "dateDisp": "8 மே, 2026",
+      "timestamp": 1778223785309,
+      "custN": "—",
+      "custP": "",
+      "items": [
+        {
+          "id": 2,
+          "e": "🌾",
+          "ta": "இட்லி அரிசி",
+          "en": "Idli Rice",
+          "pr": 52,
+          "u": "kg",
+          "qty": 5,
+          "tot": 260
+        },
+        {
+          "id": 11,
+          "e": "🫘",
+          "ta": "உளுந்து",
+          "en": "Urad Dal",
+          "pr": 110,
+          "u": "kg",
+          "qty": 3.5,
+          "tot": 385
+        },
+        {
+          "id": 41,
+          "e": "🫚",
+          "ta": "நல்லெண்ணெய்",
+          "en": "Sesame Oil",
+          "pr": 180,
+          "u": "litre",
+          "qty": 0.5,
+          "tot": 90
+        },
+        {
+          "id": 51,
+          "e": "🍯",
+          "ta": "சர்க்கரை",
+          "en": "Sugar",
+          "pr": 42,
+          "u": "kg",
+          "qty": 2,
+          "tot": 84
+        },
+        {
+          "id": 45,
+          "e": "🥛",
+          "ta": "பால்",
+          "en": "Milk",
+          "pr": 58,
+          "u": "litre",
+          "qty": 2,
+          "tot": 116
+        }
+      ],
+      "sub": 935,
+      "disc": 0,
+      "total": 935,
+      "payType": "cash",
+      "itemCount": 5
+    },
+    {
+      "id": 1009,
+      "time": "PM 12:27:06",
+      "date": "2026-05-07",
+      "dateDisp": "7 மே, 2026",
+      "timestamp": 1778137026153,
+      "custN": "—",
+      "custP": "",
+      "items": [
+        {
+          "id": 2,
+          "e": "🌾",
+          "ta": "இட்லி அரிசி",
+          "en": "Idli Rice",
+          "pr": 52,
+          "u": "kg",
+          "qty": 1,
+          "tot": 52
+        },
+        {
+          "id": 51,
+          "e": "🍯",
+          "ta": "சர்க்கரை",
+          "en": "Sugar",
+          "pr": 42,
+          "u": "kg",
+          "qty": 1,
+          "tot": 42
+        },
+        {
+          "id": 50,
+          "e": "🧂",
+          "ta": "உப்பு",
+          "en": "Salt",
+          "pr": 25,
+          "u": "kg",
+          "qty": 0.5,
+          "tot": 12.5
+        }
+      ],
+      "sub": 106.5,
+      "disc": 0,
+      "total": 106.5,
+      "payType": "cash",
+      "itemCount": 3
+    },
+    {
+      "id": 1008,
+      "time": "10:10:06 PM",
+      "date": "2026-05-06",
+      "dateDisp": "6 மே, 2026",
+      "timestamp": 1778085606849,
+      "custN": "—",
+      "custP": "",
+      "items": [
+        {
+          "id": 16,
+          "e": "🍅",
+          "ta": "தக்காளி",
+          "en": "Tomato",
+          "pr": 25,
+          "u": "kg",
+          "qty": 34,
+          "tot": 850
+        },
+        {
+          "id": 1,
+          "e": "🌾",
+          "ta": "அரிசி (Sona Masoori)",
+          "en": "Sona Masoori Rice",
+          "pr": 58,
+          "u": "kg",
+          "qty": 90,
+          "tot": 5220
+        },
+        {
+          "id": 45,
+          "e": "🥛",
+          "ta": "பால்",
+          "en": "Milk",
+          "pr": 58,
+          "u": "litre",
+          "qty": 44,
+          "tot": 2552
+        }
+      ],
+      "sub": 8622,
+      "disc": 0,
+      "total": 8622,
+      "payType": "cash",
+      "itemCount": 3
+    },
+    {
+      "id": 1007,
+      "time": "11:17:32 AM",
+      "date": "2026-05-06",
+      "dateDisp": "6 மே, 2026",
+      "timestamp": 1778046452124,
+      "custN": "Mubeen",
+      "custP": "9345805940",
+      "items": [
+        {
+          "id": 16,
+          "e": "🍅",
+          "ta": "தக்காளி",
+          "en": "Tomato",
+          "pr": 25,
+          "u": "kg",
+          "qty": 5,
+          "tot": 125
+        },
+        {
+          "id": 45,
+          "e": "🥛",
+          "ta": "பால்",
+          "en": "Milk",
+          "pr": 58,
+          "u": "litre",
+          "qty": 5,
+          "tot": 290
+        }
+      ],
+      "sub": 415,
+      "disc": 0,
+      "total": 415,
+      "payType": "credit",
+      "itemCount": 2
+    },
+    {
+      "id": 1006,
+      "time": "11:16:16 AM",
+      "date": "2026-05-06",
+      "dateDisp": "6 மே, 2026",
+      "timestamp": 1778046376703,
+      "custN": "—",
+      "custP": "",
+      "items": [
+        {
+          "id": 1,
+          "e": "🌾",
+          "ta": "அரிசி (Sona Masoori)",
+          "en": "Sona Masoori Rice",
+          "pr": 58,
+          "u": "kg",
+          "qty": 10,
+          "tot": 580
+        },
+        {
+          "id": 50,
+          "e": "🧂",
+          "ta": "உப்பு",
+          "en": "Salt",
+          "pr": 25,
+          "u": "kg",
+          "qty": 0.5,
+          "tot": 12.5
+        },
+        {
+          "id": 41,
+          "e": "🫚",
+          "ta": "நல்லெண்ணெய்",
+          "en": "Sesame Oil",
+          "pr": 180,
+          "u": "litre",
+          "qty": 1,
+          "tot": 180
+        }
+      ],
+      "sub": 772.5,
+      "disc": 0,
+      "total": 772.5,
+      "payType": "cash",
+      "itemCount": 3
+    },
+    {
+      "id": 1005,
+      "time": "10:55:40 AM",
+      "date": "2026-05-06",
+      "dateDisp": "6 மே, 2026",
+      "timestamp": 1778045140158,
+      "custN": "Mubeen",
+      "custP": "9345805940",
+      "items": [
+        {
+          "id": 12,
+          "e": "🫘",
+          "ta": "பாசிப்பருப்பு",
+          "en": "Moong Dal",
+          "pr": 105,
+          "u": "kg",
+          "qty": 1,
+          "tot": 105
+        }
+      ],
+      "sub": 105,
+      "disc": 0,
+      "total": 105,
+      "payType": "credit",
+      "itemCount": 1
+    },
+    {
+      "id": 1004,
+      "time": "5:48:30 PM",
+      "date": "2026-05-04",
+      "dateDisp": "4 மே, 2026",
+      "timestamp": 1777897110663,
+      "custN": "syed",
+      "custP": "9442816720",
+      "items": [
+        {
+          "id": 45,
+          "e": "🥛",
+          "ta": "பால்",
+          "en": "Milk",
+          "pr": 58,
+          "u": "litre",
+          "qty": 1,
+          "tot": 58
+        }
+      ],
+      "sub": 58,
+      "disc": 0,
+      "total": 58,
+      "payType": "credit",
+      "itemCount": 1
+    },
+    {
+      "id": 1003,
+      "time": "5:45:46 PM",
+      "date": "2026-05-04",
+      "dateDisp": "4 மே, 2026",
+      "timestamp": 1777896946760,
+      "custN": "Mubeen",
+      "custP": "9345805940",
+      "items": [
+        {
+          "id": 9,
+          "e": "🫘",
+          "ta": "துவரம் பருப்பு",
+          "en": "Toor Dal",
+          "pr": 120,
+          "u": "kg",
+          "qty": 1,
+          "tot": 120
+        }
+      ],
+      "sub": 120,
+      "disc": 0,
+      "total": 120,
+      "payType": "credit",
+      "itemCount": 1
+    },
+    {
+      "id": 1002,
+      "time": "5:44:53 PM",
+      "date": "2026-05-04",
+      "dateDisp": "4 மே, 2026",
+      "timestamp": 1777896893342,
+      "custN": "Mubeen",
+      "custP": "9345805940",
+      "items": [
+        {
+          "id": 16,
+          "e": "🍅",
+          "ta": "தக்காளி",
+          "en": "Tomato",
+          "pr": 25,
+          "u": "kg",
+          "qty": 1,
+          "tot": 25
+        }
+      ],
+      "sub": 25,
+      "disc": 0,
+      "total": 25,
+      "payType": "credit",
+      "itemCount": 1
+    },
+    {
+      "id": 1001,
+      "time": "5:24:47 PM",
+      "date": "2026-03-22",
+      "dateDisp": "22 மார்ச், 2026",
+      "timestamp": 1774180487948,
+      "custN": "—",
+      "custP": "",
+      "items": [
+        {
+          "id": 4,
+          "e": "🌾",
+          "ta": "கோதுமை மாவு",
+          "en": "Wheat Flour",
+          "pr": 42,
+          "u": "kg",
+          "qty": 1,
+          "tot": 42
+        },
+        {
+          "id": 23,
+          "e": "🥒",
+          "ta": "வெள்ளரிக்காய்",
+          "en": "Cucumber",
+          "pr": 30,
+          "u": "kg",
+          "qty": 1,
+          "tot": 30
+        },
+        {
+          "id": 38,
+          "e": "🫙",
+          "ta": "இஞ்சி",
+          "en": "Ginger",
+          "pr": 120,
+          "u": "kg",
+          "qty": 1,
+          "tot": 120
+        }
+      ],
+      "sub": 192,
+      "disc": 0,
+      "total": 192,
+      "payType": "cash",
+      "itemCount": 3
+    }
+  ]
+}
