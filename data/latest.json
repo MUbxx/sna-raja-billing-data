@@ -1,6 +1,6 @@
 {
   "meta": {
-    "backupAt": "2026-06-25T10:46:44.869Z",
+    "backupAt": "2026-06-25T10:47:01.071Z",
     "shopName": "S.N.A RAJA RICE & GROCERY",
     "billCounter": 1019,
     "version": "sna4"
@@ -11,7 +11,7 @@
     "saddr": "Tiruppur, Tamil Nadu",
     "upiid": "mohamedmubeen576-1@okaxis",
     "upiname": "Raja",
-    "billSize": "80mm",
+    "billSize": "A4",
     "terms": ""
   },
   "cats": [
