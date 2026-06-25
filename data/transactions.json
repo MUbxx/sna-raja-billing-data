@@ -1,6 +1,33 @@
 {
   "transactions": [
     {
+      "id": 1018,
+      "time": "4:16:44 PM",
+      "date": "2026-06-25",
+      "dateDisp": "25 ஜூன், 2026",
+      "timestamp": 1782384404368,
+      "custN": "—",
+      "custP": "",
+      "items": [
+        {
+          "id": 5,
+          "e": "🍚",
+          "ta": "பொன்னி அரிசி",
+          "en": "Ponni Rice",
+          "pr": 1,
+          "u": "kg",
+          "qty": 1,
+          "tot": 1
+        }
+      ],
+      "sub": 1,
+      "disc": 0,
+      "total": 1,
+      "payType": "gpay",
+      "itemCount": 1,
+      "addedBy": "Admin 1"
+    },
+    {
       "id": 1017,
       "time": "10:20:38 PM",
       "date": "2026-06-21",
@@ -666,6 +693,6 @@
     }
   ],
   "meta": {
-    "savedAt": "2026-06-21T17:59:09.662Z"
+    "savedAt": "2026-06-25T10:46:44.869Z"
   }
 }
