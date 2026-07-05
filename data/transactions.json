@@ -1,6 +1,32 @@
 {
   "transactions": [
     {
+      "id": 1022,
+      "time": "1:36:18 PM",
+      "date": "2026-07-05",
+      "dateDisp": "5 ஜூலை, 2026",
+      "timestamp": 1783238778088,
+      "custN": "Kaatukara sultha",
+      "custP": "",
+      "items": [
+        {
+          "id": 49,
+          "e": "🌾",
+          "ta": "gpay",
+          "en": "gpay",
+          "pr": 1,
+          "u": "kg",
+          "qty": 1,
+          "tot": 1
+        }
+      ],
+      "sub": 1,
+      "disc": 0,
+      "total": 1,
+      "payType": "credit",
+      "itemCount": 1
+    },
+    {
       "id": 1021,
       "time": "1:36:05 PM",
       "date": "2026-07-05",
@@ -781,6 +807,6 @@
     }
   ],
   "meta": {
-    "savedAt": "2026-07-05T08:06:06.441Z"
+    "savedAt": "2026-07-05T08:06:18.590Z"
   }
 }
