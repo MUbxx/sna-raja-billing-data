@@ -1,6 +1,42 @@
 {
   "transactions": [
     {
+      "id": 1020,
+      "time": "1:35:57 PM",
+      "date": "2026-07-05",
+      "dateDisp": "5 ஜூலை, 2026",
+      "timestamp": 1783238757826,
+      "custN": "—",
+      "custP": "",
+      "items": [
+        {
+          "id": 32,
+          "e": "🫙",
+          "ta": "தூள் உப்பு",
+          "en": "Salt",
+          "pr": 1,
+          "u": "kg",
+          "qty": 1,
+          "tot": 1
+        },
+        {
+          "id": 49,
+          "e": "🌾",
+          "ta": "gpay",
+          "en": "gpay",
+          "pr": 1,
+          "u": "kg",
+          "qty": 1,
+          "tot": 1
+        }
+      ],
+      "sub": 2,
+      "disc": 0,
+      "total": 2,
+      "payType": "cash",
+      "itemCount": 2
+    },
+    {
       "id": 1019,
       "time": "1:34:45 PM",
       "date": "2026-07-05",
@@ -719,6 +755,6 @@
     }
   ],
   "meta": {
-    "savedAt": "2026-07-05T08:04:46.312Z"
+    "savedAt": "2026-07-05T08:05:58.326Z"
   }
 }
