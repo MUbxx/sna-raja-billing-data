@@ -1,6 +1,6 @@
 {
   "meta": {
-    "backupAt": "2026-07-07T17:06:32.496Z",
+    "backupAt": "2026-07-07T17:07:17.525Z",
     "shopName": "S.N.A RAJA RICE & GROCERY",
     "billCounter": 1026,
     "version": "sna4"
@@ -854,7 +854,7 @@
     {
       "id": 3,
       "name": "Kaatukara sultha",
-      "mobile": "",
+      "mobile": "9345805940",
       "address": "",
       "txns": [
         {
@@ -924,7 +924,8 @@
         }
       ],
       "createdAt": "2026-05-08T16:32:15.586Z",
-      "lastDate": "2026-07-05"
+      "lastDate": "2026-07-05",
+      "notes": ""
     }
   ],
   "transactions": [
