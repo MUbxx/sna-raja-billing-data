@@ -1,8 +1,8 @@
 {
   "meta": {
-    "backupAt": "2026-07-07T14:15:02.131Z",
+    "backupAt": "2026-07-07T14:15:25.070Z",
     "shopName": "S.N.A RAJA RICE & GROCERY",
-    "billCounter": 1024,
+    "billCounter": 1025,
     "version": "sna4"
   },
   "cfg": {
@@ -483,7 +483,7 @@
       "pr": 1,
       "u": "kg",
       "cat": "தானியங்கள்",
-      "st": 100000,
+      "st": 99900,
       "wa": 1,
       "ord": 35,
       "pin": false
@@ -496,7 +496,7 @@
       "pr": 1,
       "u": "kg",
       "cat": "தானியங்கள்",
-      "st": 10000,
+      "st": 9901,
       "wa": 1,
       "ord": 36,
       "pin": false
@@ -928,6 +928,42 @@
     }
   ],
   "transactions": [
+    {
+      "id": 1024,
+      "time": "7:45:24 PM",
+      "date": "2026-07-07",
+      "dateDisp": "7 ஜூலை, 2026",
+      "timestamp": 1783433724569,
+      "custN": "—",
+      "custP": "",
+      "items": [
+        {
+          "id": 35,
+          "e": "🫙",
+          "ta": "கடுகு",
+          "en": "Kadugu",
+          "pr": 1,
+          "u": "kg",
+          "qty": 100,
+          "tot": 100
+        },
+        {
+          "id": 36,
+          "e": "🫙",
+          "ta": "மிளகு",
+          "en": "Milagu",
+          "pr": 1,
+          "u": "kg",
+          "qty": 99,
+          "tot": 99
+        }
+      ],
+      "sub": 199,
+      "disc": 0,
+      "total": 199,
+      "payType": "cash",
+      "itemCount": 2
+    },
     {
       "id": 1023,
       "time": "7:45:01 PM",
