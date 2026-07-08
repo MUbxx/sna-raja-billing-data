@@ -1,8 +1,8 @@
 {
   "meta": {
-    "backupAt": "2026-07-07T17:07:17.525Z",
+    "backupAt": "2026-07-08T01:38:00.156Z",
     "shopName": "S.N.A RAJA RICE & GROCERY",
-    "billCounter": 1026,
+    "billCounter": 1027,
     "version": "sna4"
   },
   "cfg": {
@@ -327,7 +327,7 @@
       "pr": 1,
       "u": "kg",
       "cat": "தானியங்கள்",
-      "st": 100000,
+      "st": 99999,
       "wa": 1,
       "ord": 23,
       "pin": false
@@ -652,7 +652,7 @@
       "pr": 1,
       "u": "kg",
       "cat": "தானியங்கள்",
-      "st": 100000,
+      "st": 99997,
       "wa": 1,
       "ord": 48,
       "pin": false
@@ -929,6 +929,42 @@
     }
   ],
   "transactions": [
+    {
+      "id": 1026,
+      "time": "7:07:59 AM",
+      "date": "2026-07-08",
+      "dateDisp": "8 ஜூலை, 2026",
+      "timestamp": 1783474679653,
+      "custN": "—",
+      "custP": "",
+      "items": [
+        {
+          "id": 48,
+          "e": "🫙",
+          "ta": "மஞ்சள்",
+          "en": "Turmeric",
+          "pr": 1,
+          "u": "kg",
+          "qty": 3,
+          "tot": 3
+        },
+        {
+          "id": 23,
+          "e": "🐟",
+          "ta": "கருக்கா தவிடு",
+          "en": "Thavidu",
+          "pr": 1,
+          "u": "kg",
+          "qty": 1,
+          "tot": 1
+        }
+      ],
+      "sub": 4,
+      "disc": 0,
+      "total": 4,
+      "payType": "gpay",
+      "itemCount": 2
+    },
     {
       "id": 1025,
       "time": "7:46:21 PM",
