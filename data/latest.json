@@ -1,8 +1,8 @@
 {
   "meta": {
-    "backupAt": "2026-07-08T01:38:00.156Z",
+    "backupAt": "2026-07-08T01:38:58.899Z",
     "shopName": "S.N.A RAJA RICE & GROCERY",
-    "billCounter": 1027,
+    "billCounter": 1028,
     "version": "sna4"
   },
   "cfg": {
@@ -366,7 +366,7 @@
       "pr": 1,
       "u": "kg",
       "cat": "தானியங்கள்",
-      "st": 99998.5,
+      "st": 99997.5,
       "wa": 1,
       "ord": 26,
       "pin": false
@@ -418,7 +418,7 @@
       "pr": 1,
       "u": "kg",
       "cat": "தானியங்கள்",
-      "st": 100000,
+      "st": 99999,
       "wa": 1,
       "ord": 30,
       "pin": false
@@ -926,9 +926,88 @@
       "createdAt": "2026-05-08T16:32:15.586Z",
       "lastDate": "2026-07-05",
       "notes": ""
+    },
+    {
+      "id": 4,
+      "name": "sakil",
+      "mobile": "8525827827",
+      "address": "",
+      "txns": [
+        {
+          "type": "bill",
+          "amount": 2,
+          "billNo": 1027,
+          "items": 2,
+          "itemList": [
+            {
+              "id": 26,
+              "e": "🐟",
+              "ta": "எள்ளு புண்ணாக்கு",
+              "en": "Ellu punnaku",
+              "pr": 1,
+              "u": "kg",
+              "qty": 1,
+              "tot": 1
+            },
+            {
+              "id": 30,
+              "e": "🥚",
+              "ta": "முட்டை",
+              "en": "Egg",
+              "pr": 1,
+              "u": "kg",
+              "qty": 1,
+              "tot": 1
+            }
+          ],
+          "sub": 2,
+          "disc": 0,
+          "date": "2026-07-08",
+          "time": "7:08:58 AM",
+          "ts": 1783474738397
+        }
+      ],
+      "createdAt": "2026-07-08T01:38:58.397Z",
+      "lastDate": "2026-07-08"
     }
   ],
   "transactions": [
+    {
+      "id": 1027,
+      "time": "7:08:58 AM",
+      "date": "2026-07-08",
+      "dateDisp": "8 ஜூலை, 2026",
+      "timestamp": 1783474738397,
+      "custN": "sakil",
+      "custP": "8525827827",
+      "items": [
+        {
+          "id": 26,
+          "e": "🐟",
+          "ta": "எள்ளு புண்ணாக்கு",
+          "en": "Ellu punnaku",
+          "pr": 1,
+          "u": "kg",
+          "qty": 1,
+          "tot": 1
+        },
+        {
+          "id": 30,
+          "e": "🥚",
+          "ta": "முட்டை",
+          "en": "Egg",
+          "pr": 1,
+          "u": "kg",
+          "qty": 1,
+          "tot": 1
+        }
+      ],
+      "sub": 2,
+      "disc": 0,
+      "total": 2,
+      "payType": "credit",
+      "itemCount": 2
+    },
     {
       "id": 1026,
       "time": "7:07:59 AM",
