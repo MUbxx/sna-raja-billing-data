@@ -1,6 +1,42 @@
 {
   "transactions": [
     {
+      "id": 1027,
+      "time": "7:08:58 AM",
+      "date": "2026-07-08",
+      "dateDisp": "8 ஜூலை, 2026",
+      "timestamp": 1783474738397,
+      "custN": "sakil",
+      "custP": "8525827827",
+      "items": [
+        {
+          "id": 26,
+          "e": "🐟",
+          "ta": "எள்ளு புண்ணாக்கு",
+          "en": "Ellu punnaku",
+          "pr": 1,
+          "u": "kg",
+          "qty": 1,
+          "tot": 1
+        },
+        {
+          "id": 30,
+          "e": "🥚",
+          "ta": "முட்டை",
+          "en": "Egg",
+          "pr": 1,
+          "u": "kg",
+          "qty": 1,
+          "tot": 1
+        }
+      ],
+      "sub": 2,
+      "disc": 0,
+      "total": 2,
+      "payType": "credit",
+      "itemCount": 2
+    },
+    {
       "id": 1026,
       "time": "7:07:59 AM",
       "date": "2026-07-08",
@@ -931,6 +967,6 @@
     }
   ],
   "meta": {
-    "savedAt": "2026-07-08T01:38:00.156Z"
+    "savedAt": "2026-07-08T01:38:58.899Z"
   }
 }
