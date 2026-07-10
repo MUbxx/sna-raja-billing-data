@@ -1,8 +1,8 @@
 {
   "meta": {
-    "backupAt": "2026-07-08T02:44:39.127Z",
+    "backupAt": "2026-07-10T07:22:18.740Z",
     "shopName": "S.N.A RAJA RICE & GROCERY",
-    "billCounter": 1028,
+    "billCounter": 1029,
     "version": "sna4"
   },
   "cfg": {
@@ -49,7 +49,7 @@
       "pr": 1100,
       "u": "kg",
       "cat": "தானியங்கள்",
-      "st": 100,
+      "st": 99,
       "wa": 1,
       "ord": 2,
       "pin": false
@@ -967,6 +967,32 @@
     }
   ],
   "transactions": [
+    {
+      "id": 1028,
+      "time": "12:52:18 PM",
+      "date": "2026-07-10",
+      "dateDisp": "10 ஜூலை, 2026",
+      "timestamp": 1783668138240,
+      "custN": "—",
+      "custP": "",
+      "items": [
+        {
+          "id": 2,
+          "e": "🍚",
+          "ta": "இட்லி அரிசி சிப்பம்",
+          "en": "Idly rice sippam",
+          "pr": 1100,
+          "u": "kg",
+          "qty": 1,
+          "tot": 1100
+        }
+      ],
+      "sub": 1100,
+      "disc": 0,
+      "total": 1100,
+      "payType": "cash",
+      "itemCount": 1
+    },
     {
       "id": 1027,
       "time": "7:08:58 AM",
