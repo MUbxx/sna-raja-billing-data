@@ -1,6 +1,32 @@
 {
   "transactions": [
     {
+      "id": 1032,
+      "time": "1:15:15 PM",
+      "date": "2026-08-20",
+      "dateDisp": "20 ஆகஸ்ட், 2026",
+      "timestamp": 1787211915680,
+      "custN": "—",
+      "custP": "",
+      "items": [
+        {
+          "id": 6,
+          "e": "🍚",
+          "ta": "பொன்னி அரிசி சிப்பம்",
+          "en": "Ponni Rice bag",
+          "pr": 1,
+          "u": "kg",
+          "qty": 30,
+          "tot": 30
+        }
+      ],
+      "sub": 30,
+      "disc": 0,
+      "total": 30,
+      "payType": "gpay",
+      "itemCount": 1
+    },
+    {
       "id": 1031,
       "time": "1:53:38 PM",
       "date": "2026-08-15",
@@ -1071,6 +1097,6 @@
     }
   ],
   "meta": {
-    "savedAt": "2026-08-15T08:23:39.454Z"
+    "savedAt": "2026-08-20T07:45:16.193Z"
   }
 }
