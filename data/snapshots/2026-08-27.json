@@ -1,6 +1,6 @@
 {
   "meta": {
-    "backupAt": "2026-08-27T10:05:58.777Z",
+    "backupAt": "2026-08-27T10:06:25.971Z",
     "shopName": "S.N.A RAJA RICE & GROCERY",
     "billCounter": 1035,
     "version": "sna4"
@@ -800,10 +800,19 @@
           "date": "2026-05-06",
           "time": "10:17:18 PM",
           "ts": 1778086038458
+        },
+        {
+          "type": "payment",
+          "amount": 1000,
+          "payMethod": "cash",
+          "note": "",
+          "date": "2026-08-27",
+          "time": "3:36:25 PM",
+          "ts": 1787825185468
         }
       ],
       "createdAt": "2026-05-04T12:14:53.342Z",
-      "lastDate": "2026-05-06"
+      "lastDate": "2026-08-27"
     },
     {
       "id": 2,
@@ -845,58 +854,6 @@
       ],
       "createdAt": "2026-05-04T12:18:30.663Z",
       "lastDate": "2026-05-04"
-    },
-    {
-      "id": 4,
-      "name": "sakil",
-      "mobile": "8525827827",
-      "address": "",
-      "txns": [
-        {
-          "type": "bill",
-          "amount": 2,
-          "billNo": 1027,
-          "items": 2,
-          "itemList": [
-            {
-              "id": 26,
-              "e": "🐟",
-              "ta": "எள்ளு புண்ணாக்கு",
-              "en": "Ellu punnaku",
-              "pr": 1,
-              "u": "kg",
-              "qty": 1,
-              "tot": 1
-            },
-            {
-              "id": 30,
-              "e": "🥚",
-              "ta": "முட்டை",
-              "en": "Egg",
-              "pr": 1,
-              "u": "kg",
-              "qty": 1,
-              "tot": 1
-            }
-          ],
-          "sub": 2,
-          "disc": 0,
-          "date": "2026-07-08",
-          "time": "7:08:58 AM",
-          "ts": 1783474738397
-        },
-        {
-          "type": "payment",
-          "amount": 2,
-          "payMethod": "cash",
-          "note": "",
-          "date": "2026-08-27",
-          "time": "3:35:58 PM",
-          "ts": 1787825158275
-        }
-      ],
-      "createdAt": "2026-07-08T01:38:58.397Z",
-      "lastDate": "2026-08-27"
     },
     {
       "id": 5,
