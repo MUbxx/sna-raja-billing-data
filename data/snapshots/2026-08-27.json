@@ -1,8 +1,8 @@
 {
   "meta": {
-    "backupAt": "2026-08-27T10:06:25.971Z",
+    "backupAt": "2026-08-27T10:06:50.587Z",
     "shopName": "S.N.A RAJA RICE & GROCERY",
-    "billCounter": 1035,
+    "billCounter": 1036,
     "version": "sna4"
   },
   "cfg": {
@@ -101,7 +101,7 @@
       "pr": 1,
       "u": "kg",
       "cat": "தானியங்கள்",
-      "st": 9204,
+      "st": 5404,
       "wa": 1,
       "ord": 5,
       "pin": false
@@ -809,6 +809,29 @@
           "date": "2026-08-27",
           "time": "3:36:25 PM",
           "ts": 1787825185468
+        },
+        {
+          "type": "bill",
+          "amount": 3800,
+          "billNo": 1035,
+          "items": 1,
+          "itemList": [
+            {
+              "id": 6,
+              "e": "🍚",
+              "ta": "பொன்னி அரிசி சிப்பம்",
+              "en": "Ponni Rice bag",
+              "pr": 1,
+              "u": "kg",
+              "qty": 3800,
+              "tot": 3800
+            }
+          ],
+          "sub": 3800,
+          "disc": 0,
+          "date": "2026-08-27",
+          "time": "3:36:50 PM",
+          "ts": 1787825210086
         }
       ],
       "createdAt": "2026-05-04T12:14:53.342Z",
@@ -900,6 +923,32 @@
     }
   ],
   "transactions": [
+    {
+      "id": 1035,
+      "time": "3:36:50 PM",
+      "date": "2026-08-27",
+      "dateDisp": "27 ஆகஸ்ட், 2026",
+      "timestamp": 1787825210086,
+      "custN": "Mubeen",
+      "custP": "9345805940",
+      "items": [
+        {
+          "id": 6,
+          "e": "🍚",
+          "ta": "பொன்னி அரிசி சிப்பம்",
+          "en": "Ponni Rice bag",
+          "pr": 1,
+          "u": "kg",
+          "qty": 3800,
+          "tot": 3800
+        }
+      ],
+      "sub": 3800,
+      "disc": 0,
+      "total": 3800,
+      "payType": "credit",
+      "itemCount": 1
+    },
     {
       "id": 1034,
       "time": "3:26:19 PM",
