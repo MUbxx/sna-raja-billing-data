@@ -1,6 +1,6 @@
 {
   "meta": {
-    "backupAt": "2026-08-27T10:07:09.558Z",
+    "backupAt": "2026-08-27T10:07:12.734Z",
     "shopName": "S.N.A RAJA RICE & GROCERY",
     "billCounter": 1036,
     "version": "sna4"
@@ -666,49 +666,7 @@
       "pin": false
     }
   ],
-  "accounts": [
-    {
-      "id": 2,
-      "name": "syed",
-      "mobile": "9442816720",
-      "address": "-",
-      "txns": [
-        {
-          "type": "bill",
-          "amount": 58,
-          "billNo": 1004,
-          "items": 1,
-          "itemList": [
-            {
-              "id": 45,
-              "e": "🥛",
-              "ta": "பால்",
-              "en": "Milk",
-              "pr": 58,
-              "u": "litre",
-              "qty": 1,
-              "tot": 58
-            }
-          ],
-          "sub": 58,
-          "disc": 0,
-          "date": "2026-05-04",
-          "time": "5:48:30 PM",
-          "ts": 1777897110663
-        },
-        {
-          "type": "payment",
-          "amount": 58,
-          "payMethod": "gpay",
-          "date": "2026-05-04",
-          "time": "5:51:16 PM",
-          "ts": 1777897276207
-        }
-      ],
-      "createdAt": "2026-05-04T12:18:30.663Z",
-      "lastDate": "2026-05-04"
-    }
-  ],
+  "accounts": [],
   "transactions": [
     {
       "id": 1035,
