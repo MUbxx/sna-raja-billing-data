@@ -1,6 +1,32 @@
 {
   "transactions": [
     {
+      "id": 1035,
+      "time": "3:36:50 PM",
+      "date": "2026-08-27",
+      "dateDisp": "27 ஆகஸ்ட், 2026",
+      "timestamp": 1787825210086,
+      "custN": "Mubeen",
+      "custP": "9345805940",
+      "items": [
+        {
+          "id": 6,
+          "e": "🍚",
+          "ta": "பொன்னி அரிசி சிப்பம்",
+          "en": "Ponni Rice bag",
+          "pr": 1,
+          "u": "kg",
+          "qty": 3800,
+          "tot": 3800
+        }
+      ],
+      "sub": 3800,
+      "disc": 0,
+      "total": 3800,
+      "payType": "credit",
+      "itemCount": 1
+    },
+    {
       "id": 1034,
       "time": "3:26:19 PM",
       "date": "2026-08-27",
@@ -1159,6 +1185,6 @@
     }
   ],
   "meta": {
-    "savedAt": "2026-08-27T10:06:25.971Z"
+    "savedAt": "2026-08-27T10:06:50.587Z"
   }
 }
