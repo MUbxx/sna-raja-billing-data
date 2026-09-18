@@ -1,8 +1,8 @@
 {
   "meta": {
-    "backupAt": "2026-08-27T10:07:12.734Z",
+    "backupAt": "2026-09-18T09:39:56.943Z",
     "shopName": "S.N.A RAJA RICE & GROCERY",
-    "billCounter": 1036,
+    "billCounter": 1037,
     "version": "sna4"
   },
   "cfg": {
@@ -101,7 +101,7 @@
       "pr": 1,
       "u": "kg",
       "cat": "தானியங்கள்",
-      "st": 5404,
+      "st": 5394,
       "wa": 1,
       "ord": 5,
       "pin": false
@@ -668,6 +668,32 @@
   ],
   "accounts": [],
   "transactions": [
+    {
+      "id": 1036,
+      "time": "3:09:56 PM",
+      "date": "2026-09-18",
+      "dateDisp": "18 செப்டம்பர், 2026",
+      "timestamp": 1789724396440,
+      "custN": "—",
+      "custP": "",
+      "items": [
+        {
+          "id": 6,
+          "e": "🍚",
+          "ta": "பொன்னி அரிசி சிப்பம்",
+          "en": "Ponni Rice bag",
+          "pr": 1,
+          "u": "kg",
+          "qty": 10,
+          "tot": 10
+        }
+      ],
+      "sub": 10,
+      "disc": 0,
+      "total": 10,
+      "payType": "gpay",
+      "itemCount": 1
+    },
     {
       "id": 1035,
       "time": "3:36:50 PM",
